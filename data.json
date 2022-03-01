@@ -177,7 +177,7 @@
       ],
     "questions": [
       {
-        "ques": "Did you recieved any spam e-mails recently?",
+        "ques": "Did you recieved any junk e-mails recently?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -219,17 +219,123 @@
     ]
   },
 
-  "E-mail Bombing": {
+  "Corporate Account Takeover": {
     "keyword": [
-      "payment card breached",
-      "ATM machines",
-      "daily withdraw limit",
-      "Credit card",
-      "debit card",
-      "minimum cashout limit",
-      "no red flags",
-      "payment deduction notifications"
-    ],
+      "corporate bank account",
+      "business account",
+      "funds were transferred",
+      "breach",
+      "different account",
+      "unauthorized persont",
+      "wired money"
+      ],
+    "questions": [
+      {
+        "ques": "Were your client credentials/sensitive information compromised?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were you approached by any third party to discuss the account related error?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did they asked you for the login credentials under the pretense of fixing the issue?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were your organization funds transfered to unknown accounts?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did the attack bring any reputational damage to your orgainization",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "State Sponsored Hackers": {
+    "keyword": [
+      "indirectly sponsored by government",
+      "adversaries",
+      "opposition",
+      "organized group",
+      "professional hackers",
+      "trade secrets",
+      "millions of dollars of economic disruption"
+      ],
+    "questions": [
+      {
+        "ques": "Was your parties political/ ecomonic reputation compromised?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Is there a possibilty that your adversaries/opposition may have done this to defame you?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were your organization trade/corporate secrets revealed in public?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was the impact of attack critical in terms of economic damage?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were defensive capacities/security of your company diminished in anyway?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+  
+  "Online Sextortion": {
+    "keyword": [
+      "blackmailed by my fellow colleague",
+      "threatened",
+      "release my sensitive information",
+      "offer sexual favours",
+      "revenge",
+      "pay money"
+      ],
     "questions": [
       {
         "ques": "?",
@@ -273,6 +379,186 @@
       }
     ]
   },
+  "Corporate Account Takeover (CATO)": {
+    "keyword": [
+      "payment card breached",
+      "ATM machines",
+      "daily withdraw limit",
+      "Credit card",
+      "debit card",
+      "minimum cashout limit",
+      ],
+    "questions": [
+      {
+        "ques": "?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "Corporate Account Takeover (CATO)": {
+    "keyword": [
+      "payment card breached",
+      "ATM machines",
+      "daily withdraw limit",
+      "Credit card",
+      "debit card",
+      "minimum cashout limit",
+      ],
+    "questions": [
+      {
+        "ques": "?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "Corporate Account Takeover (CATO)": {
+    "keyword": [
+      "payment card breached",
+      "ATM machines",
+      "daily withdraw limit",
+      "Credit card",
+      "debit card",
+      "minimum cashout limit",
+      ],
+    "questions": [
+      {
+        "ques": "?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
