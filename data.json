@@ -1,0 +1,81 @@
+{
+  "botnet": {
+    "keyword": [
+      "zoombie",
+      "acting on its on",
+      "operating automtically",
+      "without my knowledge",
+      "stealth"
+    ],
+    "questions": [
+      {
+        "ques": "?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "abhsvhd?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "botnets": {
+    "keyword": [
+      "zoombie",
+      "acting on its on",
+      "operating automtically",
+      "without my knowledge",
+      "stealth"
+    ],
+    "questions": [
+      {
+        "ques": "",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  }
+}
