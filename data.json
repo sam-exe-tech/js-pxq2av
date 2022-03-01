@@ -760,10 +760,11 @@
       "altered",
       "impersonating ",
       "drivers and devices were used by someone else",
+      "factory assigned"
    ],
     "questions": [
       {
-        "ques": "Did your system files automatically got deleted after a specific action?",
+        "ques": "Were access controls of your device compromised?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -771,7 +772,7 @@
         }
       },
       {
-        "ques": "Was your harddrive compromised/wiped completely? Was your OS rebooted?",
+        "ques": "Was your factory assigned MAC address changed or altered by any means?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -779,7 +780,7 @@
         }
       },
       {
-        "ques": "Did you gave access of your computer to someone else recently?",
+        "ques": "Were any of your end systems drivers exploited by outsider or intruder?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -787,7 +788,7 @@
         }
       },
       {
-        "ques": "Did your antivirus got expired? Did you not activate antivirus on your system",
+        "ques": "Were your network resources compromised?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -795,7 +796,7 @@
         }
       },
       {
-        "ques": "Were some functional elements of your system malfunctioning recently?",
+        "ques": "Were any illegal activities committed by using your name or MAC address or spoofed my any means?",
         "ans": {
           "yes": 2,
           "maybe": 1,
