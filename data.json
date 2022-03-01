@@ -112,11 +112,70 @@
 
   "ATM Cash-Out Attack": {
     "keyword": [
-      "group of people online",
-      "targeted",
-      "threatened",
-      "bullied",
-      "digital communication"
+      "payment card breached",
+      "ATM machines",
+      "daily withdraw limit",
+      "Credit card",
+      "debit card",
+      "minimum cashout limit",
+      "no red flags",
+      "payment deduction notifications",
+      "withdraw alerts"
+    ],
+    "questions": [
+      {
+        "ques": "Was large amount of money instantly deducted from your bank account?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": " Did you lost your ATM card?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you recieved any red alerts/notifications of cash withdrawal?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you share your pin with someone by any means?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": " Was the amount of money deducted more than your cards daily withdrawal limit?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "E-mail Bombing": {
+    "keyword": [
+      "payment card breached",
+      "ATM machines",
+      "daily withdraw limit",
+      "Credit card",
+      "debit card",
+      "minimum cashout limit",
+      "no red flags",
+      "payment deduction notifications"
     ],
     "questions": [
       {
@@ -161,5 +220,65 @@
       }
     ]
   },
+
+  "E-mail Bombing": {
+    "keyword": [
+      "payment card breached",
+      "ATM machines",
+      "daily withdraw limit",
+      "Credit card",
+      "debit card",
+      "minimum cashout limit",
+      "no red flags",
+      "payment deduction notifications"
+    ],
+    "questions": [
+      {
+        "ques": "?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+
+
+
+
 
 
