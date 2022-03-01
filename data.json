@@ -118,7 +118,7 @@
     ],
     "questions": [
       {
-        "ques": "?",
+        "ques": "Did you recieved any abusive/offensive texts?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -126,7 +126,7 @@
         }
       },
       {
-        "ques": "",
+        "ques": "Were you a victim of hate speach?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -134,7 +134,7 @@
         }
       },
       {
-        "ques": "?",
+        "ques": "Do you feel depressed/harrased after the incident?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -142,7 +142,7 @@
         }
       },
       {
-        "ques": "",
+        "ques": "Were you targeted by multiple people at same time?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -150,7 +150,7 @@
         }
       },
       {
-        "ques": "",
+        "ques": "Was your personal reputation compromised in any way?",
         "ans": {
           "yes": 2,
           "maybe": 1,
