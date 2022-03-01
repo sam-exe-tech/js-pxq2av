@@ -1,11 +1,14 @@
 {
-  "botnet": {
+  "Botnet": {
     "keyword": [
-      "zoombie",
+      "zombie",
       "acting on its on",
       "operating automtically",
       "without my knowledge",
-      "stealth","compromised","used as source of attack"
+      "stealth",
+      "compromised",
+      "used as source of attack",
+      "communication services"
     ],
     "questions": [
       {
@@ -51,15 +54,39 @@
     ]
   },
 
-  "botnets": {
+  "Virtual Mobbing": {
     "keyword": [
-      "zoombie",
-      "acting on its on",
-      "operating automtically",
-      "without my knowledge",
-      "stealth"
+      "group of people online",
+      "targeted",
+      "threatened",
+      "bullied",
+      "digital communication"
     ],
     "questions": [
+      {
+        "ques": "?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
       {
         "ques": "",
         "ans": {
@@ -77,5 +104,60 @@
         }
       }
     ]
-  }
-}
+  },
+
+  "Virtual Mobbing": {
+    "keyword": [
+      "group of people online",
+      "targeted",
+      "threatened",
+      "bullied",
+      "digital communication",
+      "I was harrased", 
+      "act of revenge"
+    ],
+    "questions": [
+      {
+        "ques": "?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+
