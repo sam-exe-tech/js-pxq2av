@@ -338,7 +338,7 @@
       ],
     "questions": [
       {
-        "ques": "?",
+        "ques": "Were you associated with any online dating apps recently?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -346,7 +346,7 @@
         }
       },
       {
-        "ques": "",
+        "ques": "Do you know the perpetrator in person before you started recieving threats from them?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -354,7 +354,7 @@
         }
       },
       {
-        "ques": "?",
+        "ques": "Were you asked/blackmailed for any sexual favours or indecent images in return for not leaking your personal information?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -362,7 +362,7 @@
         }
       },
       {
-        "ques": "",
+        "ques": "Did perpetrators actions cause any emotional/mental damage to you?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -370,7 +370,7 @@
         }
       },
       {
-        "ques": "",
+        "ques": "Will perpetrator actions cause any embarrasing repercussion on you if they release your information in public?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -379,6 +379,7 @@
       }
     ]
   },
+  
   "Corporate Account Takeover (CATO)": {
     "keyword": [
       "payment card breached",
