@@ -540,18 +540,19 @@
     ]
   },
 
-  "Salami Attack": {
+  "Potentially Unwanted Programs": {
     "keyword": [
-      "payment card breached",
-      "ATM machines",
-      "daily withdraw limit",
-      "Credit card",
-      "debit card",
-      "minimum cashout limit",
+      "unwanted programs",
+      "applications",
+      "automatically installed",
+      "windows defender",
+      "consuming system resources",
+      "system slow and unresponsive",
+      "spyware"
       ],
     "questions": [
       {
-        "ques": "?",
+        "ques": "Did you recieve any red alerts from your windows defender/antivirus that unwanted apps found?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -559,7 +560,7 @@
         }
       },
       {
-        "ques": "",
+        "ques": "Did antivirus mentioned that the app consuming more resources than its actual need?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -567,7 +568,7 @@
         }
       },
       {
-        "ques": "?",
+        "ques": "Did your personal computer felt slow/laggy or occasionally unresponsive?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -575,7 +576,7 @@
         }
       },
       {
-        "ques": "",
+        "ques": "Did it negatively affect your end systems health or performance?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -583,7 +584,7 @@
         }
       },
       {
-        "ques": "",
+        "ques": "Did you recieve any pop up after downloading a legitimate software to download additional software?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -593,18 +594,17 @@
     ]
   },
 
-  "Salami Attack": {
+  "White Collar Criminals": {
     "keyword": [
-      "payment card breached",
-      "ATM machines",
-      "daily withdraw limit",
-      "Credit card",
-      "debit card",
-      "minimum cashout limit",
-      ],
+      "violation of trust",
+      "defaming my organization",
+      "highly economic frauds",
+      "Funded",
+      "elite scams"
+       ],
     "questions": [
       {
-        "ques": "?",
+        "ques": "Did any governmental officer asked you for a bribery to get your work done?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -612,7 +612,7 @@
         }
       },
       {
-        "ques": "",
+        "ques": "Did any employee used your organizational funds for different purpose than intended or made fraudulent investemts?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -620,7 +620,7 @@
         }
       },
       {
-        "ques": "?",
+        "ques": " Is there a possibility of corporate crimes commited against your organization without you knowing that may have affected your organization financially?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -628,7 +628,7 @@
         }
       },
       {
-        "ques": "",
+        "ques": "Is there a possibilty that your adversaries/opposition may have done this to defame you?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -636,7 +636,7 @@
         }
       },
       {
-        "ques": "",
+        "ques": " Were your agency trade secrets revealed in public? Did that cost you your company name?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -646,18 +646,19 @@
     ]
   },
 
-  "Salami Attack": {
+  "Trojan Horse Attack": {
     "keyword": [
-      "payment card breached",
-      "ATM machines",
-      "daily withdraw limit",
-      "Credit card",
-      "debit card",
-      "minimum cashout limit",
+      "malacious code",
+      "triggered",
+      "worms",
+      "malware",
+      "exploited my control mechanisms",
+      "credentials were found missing",
+      "data/network was disrupted"
       ],
     "questions": [
       {
-        "ques": "?",
+        "ques": "Did you executed any .exe file on your computer when you accidently clicked on a malacious link?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -665,7 +666,7 @@
         }
       },
       {
-        "ques": "",
+        "ques": "Did you click on any pop-ups/advertisments while surfing on a website which lead to unnecessary download?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -673,7 +674,7 @@
         }
       },
       {
-        "ques": "?",
+        "ques": "Was the data on your computer modified by any means without your knowledge?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -681,7 +682,7 @@
         }
       },
       {
-        "ques": "",
+        "ques": "Did you download any free to download software?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -689,7 +690,112 @@
         }
       },
       {
-        "ques": "",
+        "ques": "Were the system resources compromised? Did it affect your Pc's performance? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "Logic Bomber": {
+    "keyword": [
+      "malacious program",
+      "triggered",
+      "conditions met",
+      "specific date",
+      "no of transactions",
+      "triggered by certain contions"
+       ],
+    "questions": [
+      {
+        "ques": "Did your system files automatically got deleted after a specific action?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was your harddrive compromised/wiped completely? Was your OS rebooted?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you gave access of your computer to someone else recently?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did your antivirus got expired? Did you not activate antivirus on your system",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were some functional elements of your system malfunctioning recently?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "MAC Spoofing": {
+    "keyword": [
+      "access controls",
+      "mac address",
+      "altered",
+      "impersonating ",
+      "drivers and devices were used by someone else",
+   ],
+    "questions": [
+      {
+        "ques": "Did your system files automatically got deleted after a specific action?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was your harddrive compromised/wiped completely? Was your OS rebooted?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you gave access of your computer to someone else recently?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did your antivirus got expired? Did you not activate antivirus on your system",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were some functional elements of your system malfunctioning recently?",
         "ans": {
           "yes": 2,
           "maybe": 1,
