@@ -380,7 +380,167 @@
     ]
   },
   
-  "Corporate Account Takeover (CATO)": {
+  "Vishing": {
+    "keyword": [
+      "fraudulent phone call",
+      "voice message",
+      "person claiming to be a legitimate representative",
+      "asking for sensitive information",
+      "bank details"
+     ],
+    "questions": [
+      {
+        "ques": "Did you recieve any call from a person claiming to be a government representative asking for your personal details? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": " Did they mention that you have won a lottery/gift cards and need bank details to transfer the prizepool to your account?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you lost your money to some unauthorized purchases you havent made?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you recieve any call from tech support that they have noticed unusual activity and need details to verify?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you recieve any spam calls from unknown numbers?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "Ping of Death Attack": {
+    "keyword": [
+      "denail of service",
+      "system freeze",
+      "ping commands",
+      "server crashed",
+      "ping latency problems",
+      "malacious packets "
+      ],
+    "questions": [
+      {
+        "ques": "Were you facing any ping/latecy related problems on your server?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did your clients complain about the slow and unresponsive network?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was your servers memory buffer able to handle the packets? Did it exceed its capacity?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you observed any unusual/high traffic on your network recently?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were the services/control mechanisms associated denied to you for certain time interval?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "Salami Attack": {
+    "keyword": [
+      "small amount of money",
+      "small scale attack",
+      "unnecessarily deducted",
+      "least impact",
+      "minor",
+      "unnoticed",
+      "without my knowledge",
+      "add up to large scale"
+      ],
+    "questions": [
+      {
+        "ques": "Was a small amount of money i.e (fraction of cents) deducted from your account?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was it difficult to spot the total balance difference with minor fraction of money missing?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did your colleagues/friends/family members face the similar amount deduction problems like you in recent events?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you see a rise in money deduction complains/reports recently? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was the amount deducted documented under some legal charges like account management charges?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "Salami Attack": {
     "keyword": [
       "payment card breached",
       "ATM machines",
@@ -433,7 +593,7 @@
     ]
   },
 
-  "Corporate Account Takeover (CATO)": {
+  "Salami Attack": {
     "keyword": [
       "payment card breached",
       "ATM machines",
@@ -486,7 +646,7 @@
     ]
   },
 
-  "Corporate Account Takeover (CATO)": {
+  "Salami Attack": {
     "keyword": [
       "payment card breached",
       "ATM machines",
@@ -538,6 +698,7 @@
       }
     ]
   },
+
 
 
 
