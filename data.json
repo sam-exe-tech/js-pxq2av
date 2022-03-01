@@ -1,5 +1,5 @@
 {
-  "Botnet": {
+  "Botnet Attack": {
     "keyword": [
       "zombie",
       "acting on its on",
@@ -12,7 +12,7 @@
     ],
     "questions": [
       {
-        "ques": "?",
+        "ques": "Did you lost access to all your control mechanisms?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -20,7 +20,7 @@
         }
       },
       {
-        "ques": "",
+        "ques": "Was your system remotely controlled by an attacker?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -28,7 +28,7 @@
         }
       },
       {
-        "ques": "abhsvhd?",
+        "ques": "Was illegal/malacious activity being portrayed on your endscreen ?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -36,7 +36,7 @@
         }
       },
       {
-        "ques": "",
+        "ques": "Was your device unresponsive for the time interval?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -44,7 +44,7 @@
         }
       },
       {
-        "ques": "",
+        "ques": "Were you unaware about the potential onslaught on your system?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -54,59 +54,9 @@
     ]
   },
 
-  "Virtual Mobbing": {
-    "keyword": [
-      "group of people online",
-      "targeted",
-      "threatened",
-      "bullied",
-      "digital communication"
-    ],
-    "questions": [
-      {
-        "ques": "?",
-        "ans": {
-          "yes": 2,
-          "maybe": 1,
-          "no": 0
-        }
-      },
-      {
-        "ques": "",
-        "ans": {
-          "yes": 2,
-          "maybe": 1,
-          "no": 0
-        }
-      },
-      {
-        "ques": "?",
-        "ans": {
-          "yes": 2,
-          "maybe": 1,
-          "no": 0
-        }
-      },
-      {
-        "ques": "",
-        "ans": {
-          "yes": 2,
-          "maybe": 1,
-          "no": 0
-        }
-      },
-      {
-        "ques": "",
-        "ans": {
-          "yes": 2,
-          "maybe": 1,
-          "no": 0
-        }
-      }
-    ]
-  },
 
-  "Virtual Mobbing": {
+
+   "Virtual Mobbing": {
     "keyword": [
       "group of people online",
       "targeted",
@@ -151,6 +101,58 @@
       },
       {
         "ques": "Was your personal reputation compromised in any way?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "ATM Cash-Out Attack": {
+    "keyword": [
+      "group of people online",
+      "targeted",
+      "threatened",
+      "bullied",
+      "digital communication"
+    ],
+    "questions": [
+      {
+        "ques": "?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "",
         "ans": {
           "yes": 2,
           "maybe": 1,
