@@ -168,18 +168,16 @@
 
   "E-mail Bombing": {
     "keyword": [
-      "payment card breached",
-      "ATM machines",
-      "daily withdraw limit",
-      "Credit card",
-      "debit card",
-      "minimum cashout limit",
-      "no red flags",
-      "payment deduction notifications"
-    ],
+      "spam e-mails",
+      "bulk",
+      "mailbox overflowed",
+      "mailbox ren out of storage",
+      "unknown ID",
+      "inaccessible"
+      ],
     "questions": [
       {
-        "ques": "?",
+        "ques": "Did you recieved any spam e-mails recently?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -187,7 +185,7 @@
         }
       },
       {
-        "ques": "",
+        "ques": "Was your Gmail account inaccessible or unresponsive?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -195,7 +193,7 @@
         }
       },
       {
-        "ques": "?",
+        "ques": "Did your mailbox ran out of storage?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -203,7 +201,7 @@
         }
       },
       {
-        "ques": "",
+        "ques": "Did you by any chance cliked on a malacious link sent by unknown ID",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -211,7 +209,7 @@
         }
       },
       {
-        "ques": "",
+        "ques": "Were your resources depleted? Did it annoy you?",
         "ans": {
           "yes": 2,
           "maybe": 1,
