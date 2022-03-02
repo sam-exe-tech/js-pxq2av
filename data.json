@@ -1568,18 +1568,20 @@
 
   "Organ Trafficking": {
     "keyword": [
-      "clicks",
-      "clicking",
-      "displayed",
-      "portrayed",
-      "malacious site",
-      "malacious script",
-      "tricked",
-      "fooled"
+      "missing people",
+      "missing organs",
+      "dead bodies",
+      "kidneys",
+      "kidnapped",
+      "poor people",
+      "dark web",
+      "traces",
+      "brainwashed",
+      "crime department"
        ],
     "questions": [
       {
-        "ques": "Were you tricked into clicking a webpage element which was misdisplayed i.e A message displaying you won a lottery click here to claim your rewards?",
+        "ques": "Did missing people/kidnapping/dead bodies reports increased recently?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1587,7 +1589,7 @@
         }
       },
       {
-        "ques": "Did any malacious script ran in your computers background when you clicked it?",
+        "ques": "Were many of those victims poor people?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1595,7 +1597,7 @@
         }
       },
       {
-        "ques": "Were there any bugs/loopholes in your browser which weren't fixed?",
+        "ques": "Were they manipulated/brainwashed to sell organs for monetary benifits?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1603,7 +1605,7 @@
         }
       },
       {
-        "ques": "Were your funds transfered when you clicked on unknown page ibutton?",
+        "ques": "Did perpetrators leave any trace of their activites online which were linked to dark web?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1611,7 +1613,7 @@
         }
       },
       {
-        "ques": "Was Javascript not disabled on your webpage? You didn't include any Frame breaker scripts? ",
+        "ques": "Did the criminal department recieve any illegal transplantations alerts? ",
         "ans": {
           "yes": 2,
           "maybe": 1,
