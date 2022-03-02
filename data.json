@@ -1914,15 +1914,16 @@
     "keyword": [
       "crypto",
       "crypto currency",
-      "data traffic",
-      "automatically redirected",
-      "identity was stolen",
-      "i was not lured",
-      "dns cache"
+      "trading account",
+      "bitcoin",
+      "ethereum",
+      "stocks",
+      "mine",
+      "cryptocurrencies"
      ],
     "questions": [
       {
-        "ques": "Were you automatically redirected to a bogus/fake site while surfing online?",
+        "ques": "Was your crypto trading account breached? Did you lost access to it?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1930,7 +1931,7 @@
         }
       },
       {
-        "ques": "Was your confidentail information/log in credentials stolen?",
+        "ques": "Was your crypto currency i.e Bitcoin/Ethereum/Litecoin transferred to a different trading account without your knowledge? Was your crypto wallet emptied?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1938,7 +1939,7 @@
         }
       },
       {
-        "ques": "Did you click on any unknown link online/ recieved in your mailbox/messages?",
+        "ques": "Did you access any public networks (public wifi's) for trading/transactional process (buy/sell)?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1946,7 +1947,7 @@
         }
       },
       {
-        "ques": "Was your IP address compromised? Did some unknown entity impersonated you?",
+        "ques": "Was your device/personal computer/smartphones/tablets used illegally to mine/steal for cryptocurrencies in stealth mode? ",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1954,7 +1955,7 @@
         }
       },
       {
-        "ques": "Did you clear your DNS cache recently? ",
+        "ques": "Was any malacious software installed on your system? Did you click on any malacious link/advertisements/ malware injected webpages? ",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1964,19 +1965,19 @@
     ]
   },
 
-  "Pharming": {
+  "DNS Tunneling": {
     "keyword": [
-      "redirected to a bogus site",
-      "fake site",
-      "data traffic",
-      "automatically redirected",
-      "identity was stolen",
-      "i was not lured",
+      "dns",
+      "domain",
+      "tunneled",
+      "dns traffic",
+      "not monitered",
+      "bypassed firewall",
       "dns cache"
      ],
     "questions": [
       {
-        "ques": "Were you automatically redirected to a bogus/fake site while surfing online?",
+        "ques": "Was your organization DNS traffic not monitered for malacious activity?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1984,7 +1985,7 @@
         }
       },
       {
-        "ques": "Was your confidentail information/log in credentials stolen?",
+        "ques": "Was your client information compromised/tunneled/stolen/leaked/transferred to attackers server?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1992,7 +1993,7 @@
         }
       },
       {
-        "ques": "Did you click on any unknown link online/ recieved in your mailbox/messages?",
+        "ques": "Was any covert communication channel used which may have bypassed your organizations firewall/security and ip protocols?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2000,7 +2001,7 @@
         }
       },
       {
-        "ques": "Was your IP address compromised? Did some unknown entity impersonated you?",
+        "ques": "Were command and control mechanisms of your server compromised? Was confidential data exfiltrated?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2008,7 +2009,7 @@
         }
       },
       {
-        "ques": "Did you clear your DNS cache recently? ",
+        "ques": "Was javascript enabled on your server? ",
         "ans": {
           "yes": 2,
           "maybe": 1,
