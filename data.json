@@ -1276,7 +1276,7 @@
         }
       },
       {
-        "ques": "Did you not use complex session keys or random sessions? ",
+        "ques": "Did you not use complex session keys or initiate random sessions? ",
         "ans": {
           "yes": 2,
           "maybe": 1,
