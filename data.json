@@ -1394,6 +1394,234 @@
     ]
   },
 
+  "Driver Manipulation": {
+    "keyword": [
+      "drivers",
+      "wifi drivers",
+      "graphic card drivers",
+      "externals drivers",
+      "audio drivers",
+      "vedio drivers",
+      "keyboard drivers",
+      "mouse drivers",
+      "printers",
+      "manipulated",
+      "operating system",
+      "trusted"
+       ],
+    "questions": [
+      {
+        "ques": "Did you use/follow layered approaches on your device?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were any of your device drivers malfunctioning lately?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was your computers Wifi/Mouse/Audio/Vedio/Graphics/Printer unresponsive to your actions?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was your operating system not up to date?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were your driver codes recently rewritten, refactored or shimmed by any means?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+
+  "ARP Poisoning Attack": {
+    "keyword": [
+      "clicks",
+      "clicking",
+      "displayed",
+      "portrayed",
+      "malacious site",
+      "malacious script",
+      "tricked",
+      "fooled"
+       ],
+    "questions": [
+      {
+        "ques": "Were you tricked into clicking a webpage element which was misdisplayed i.e A message displaying you won a lottery click here to claim your rewards?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did any malacious script ran in your computers background when you clicked it?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were there any bugs/loopholes in your browser which weren't fixed?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were your funds transfered when you clicked on unknown page ibutton?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was Javascript not disabled on your webpage? You didn't include any Frame breaker scripts? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+
+  "Clickjacking": {
+    "keyword": [
+      "clicks",
+      "clicking",
+      "displayed",
+      "portrayed",
+      "malacious site",
+      "malacious script",
+      "tricked",
+      "fooled"
+       ],
+    "questions": [
+      {
+        "ques": "Were you tricked into clicking a webpage element which was misdisplayed i.e A message displaying you won a lottery click here to claim your rewards?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did any malacious script ran in your computers background when you clicked it?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were there any bugs/loopholes in your browser which weren't fixed?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were your funds transfered when you clicked on unknown page ibutton?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was Javascript not disabled on your webpage? You didn't include any Frame breaker scripts? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+
+  "Clickjacking": {
+    "keyword": [
+      "clicks",
+      "clicking",
+      "displayed",
+      "portrayed",
+      "malacious site",
+      "malacious script",
+      "tricked",
+      "fooled"
+       ],
+    "questions": [
+      {
+        "ques": "Were you tricked into clicking a webpage element which was misdisplayed i.e A message displaying you won a lottery click here to claim your rewards?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did any malacious script ran in your computers background when you clicked it?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were there any bugs/loopholes in your browser which weren't fixed?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were your funds transfered when you clicked on unknown page ibutton?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was Javascript not disabled on your webpage? You didn't include any Frame breaker scripts? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+
 
 
 
