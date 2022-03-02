@@ -1684,7 +1684,7 @@
   },
 
   
-  "Organ Trafficking": {
+  "Online Drug Trafficking": {
     "keyword": [
       "missing people",
       "missing organs",
@@ -1699,7 +1699,7 @@
        ],
     "questions": [
       {
-        "ques": "Did missing people/kidnapping/dead bodies reports increased recently?",
+        "ques": "Did the number of drug addicts recently increased under your legislation ",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1707,7 +1707,7 @@
         }
       },
       {
-        "ques": "Were many of those victims were poor people?",
+        "ques": "Was the consumption of illegal stuff like cocaine/herion/opium increased according to crime reports?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1715,7 +1715,7 @@
         }
       },
       {
-        "ques": "Were they manipulated/brainwashed to sell organs for monetary benifits?",
+        "ques": "Were drug probihition campaigns not executed in your region? Were people victims of drug abuse and violation? ",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1723,7 +1723,7 @@
         }
       },
       {
-        "ques": "Did perpetrators leave any trace of their activites online which were linked to dark web?",
+        "ques": "Were people not educated about the ill effects of drug usage?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1731,7 +1731,7 @@
         }
       },
       {
-        "ques": "Did the criminal department recieve any illegal transplantations alerts? ",
+        "ques": "Did crimes in your city increased this year as compared to previous year? ",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1742,7 +1742,7 @@
   },
 
   
-  "Organ Trafficking": {
+  "Pharming": {
     "keyword": [
       "missing people",
       "missing organs",
