@@ -967,15 +967,17 @@
 
   "Privilege Escalation": {
     "keyword": [
-      "repeated",
-      "transactions delayed",
-      "misinformation",
-      "message contents were altered",
-      "compromised"
+      "bug",
+      "operating system",
+      "OS",
+      "hadn't updated",
+      "patched",
+      "bugs",
+      "design flaws"
        ],
     "questions": [
       {
-        "ques": "Was there any delay in your communication/transactions?",
+        "ques": "Was your computer system up to date?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -983,7 +985,7 @@
         }
       },
       {
-        "ques": "Were your sensitive conversations resended to different clients/people on its own?",
+        "ques": "Did you applied any patches to reported bugs?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -991,7 +993,7 @@
         }
       },
       {
-        "ques": "Did you experience any sort of repetition of your activites?",
+        "ques": "Were your control mechanisms exploited by any means?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -999,7 +1001,7 @@
         }
       },
       {
-        "ques": "Were your message contents altered or any misinformation fed to your clients?",
+        "ques": "Did you observe any changes in priveleges? Were higher priveleges granted to any entity beyond its level?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1007,7 +1009,7 @@
         }
       },
       {
-        "ques": "Did you not establish any random sesssion or unique token while completing a transaction?",
+        "ques": "Did your system had any misconfigurations/design flaws previously which were ignored by you?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1017,7 +1019,7 @@
     ]
   },
 
-  "Replay Attack": {
+  "Rainbow Table Attack": {
     "keyword": [
       "repeated",
       "transactions delayed",
