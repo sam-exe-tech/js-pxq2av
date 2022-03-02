@@ -806,6 +806,322 @@
     ]
   },
 
+  "SYN Flood Attack": {
+    "keyword": [
+      "unresponsive",
+      "couldn't establish a connection",
+      "half connection",
+      "high traffic",
+      "couldn't access",
+      "factory assigned",
+      "half open connections",
+      "multiple"
+   ],
+    "questions": [
+      {
+        "ques": "Was the server temporarily unavailable or unable to function?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was denail of service a potential issue?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were you successful in initiating a new real connection?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you not recieve any ACK packet from server after requesting for a connection?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did server crashed abruptly?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "Plaintext Attack": {
+    "keyword": [
+      "secret key",
+      "plaintext",
+      "ciphertext",
+      "encrypted text ",
+      "senssitive information"
+       ],
+    "questions": [
+      {
+        "ques": "Was your sensitive information compromised/leaked?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you enable two factor authentication to secure your account?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did your account raise any red flags?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you share your secret/private key with anyone familiar?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you enable long key spaces for encryption?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "Replay Attack": {
+    "keyword": [
+      "repeated",
+      "transactions delayed",
+      "misinformation",
+      "message contents were altered",
+      "compromised"
+       ],
+    "questions": [
+      {
+        "ques": "Was there any delay in your communication/transactions?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were your sensitive conversations resended to different clients/people on its own?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you experience any sort of repetition of your activites?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were your message contents altered or any misinformation fed to your clients?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you not establish any random sesssion or unique token while completing a transaction?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "Privilege Escalation": {
+    "keyword": [
+      "repeated",
+      "transactions delayed",
+      "misinformation",
+      "message contents were altered",
+      "compromised"
+       ],
+    "questions": [
+      {
+        "ques": "Was there any delay in your communication/transactions?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were your sensitive conversations resended to different clients/people on its own?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you experience any sort of repetition of your activites?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were your message contents altered or any misinformation fed to your clients?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you not establish any random sesssion or unique token while completing a transaction?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "Replay Attack": {
+    "keyword": [
+      "repeated",
+      "transactions delayed",
+      "misinformation",
+      "message contents were altered",
+      "compromised"
+       ],
+    "questions": [
+      {
+        "ques": "Was there any delay in your communication/transactions?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were your sensitive conversations resended to different clients/people on its own?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you experience any sort of repetition of your activites?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were your message contents altered or any misinformation fed to your clients?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you not establish any random sesssion or unique token while completing a transaction?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "Replay Attack": {
+    "keyword": [
+      "repeated",
+      "transactions delayed",
+      "misinformation",
+      "message contents were altered",
+      "compromised"
+       ],
+    "questions": [
+      {
+        "ques": "Was there any delay in your communication/transactions?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were your sensitive conversations resended to different clients/people on its own?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you experience any sort of repetition of your activites?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were your message contents altered or any misinformation fed to your clients?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you not establish any random sesssion or unique token while completing a transaction?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+
 
 
 
