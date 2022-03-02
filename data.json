@@ -1589,7 +1589,7 @@
         }
       },
       {
-        "ques": "Were many of those victims poor people?",
+        "ques": "Were many of those victims were poor people?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1622,6 +1622,183 @@
       }
     ]
   },
+
+
+
+  "Sim Swap Scam": {
+    "keyword": [
+      "fraudulent phone call",
+      "explaining some schemes",
+      "explaining offers",
+      "sim details",
+      "impersonating ",
+      "calling company claiming to be me",
+      "sim card",
+      "sim card damaged",
+      "sim card lost",
+      "crime department",
+      "banking frauds"
+       ],
+    "questions": [
+      {
+        "ques": "Did you recieved any fraudulent call from a person claiming to be a legit representative asking for your sim card details or personal information?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did your sim card displayed no signal abrubtly still while company network didn't display any outrage?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you lost your phone connection/internet services?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were any online banking frauds committed against you by an attacker?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was your online user profile (telecom profile) not set to private? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  
+  "Organ Trafficking": {
+    "keyword": [
+      "missing people",
+      "missing organs",
+      "dead bodies",
+      "kidneys",
+      "kidnapped",
+      "poor people",
+      "dark web",
+      "traces",
+      "brainwashed",
+      "crime department"
+       ],
+    "questions": [
+      {
+        "ques": "Did missing people/kidnapping/dead bodies reports increased recently?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were many of those victims were poor people?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were they manipulated/brainwashed to sell organs for monetary benifits?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did perpetrators leave any trace of their activites online which were linked to dark web?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did the criminal department recieve any illegal transplantations alerts? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  
+  "Organ Trafficking": {
+    "keyword": [
+      "missing people",
+      "missing organs",
+      "dead bodies",
+      "kidneys",
+      "kidnapped",
+      "poor people",
+      "dark web",
+      "traces",
+      "brainwashed",
+      "crime department"
+       ],
+    "questions": [
+      {
+        "ques": "Did missing people/kidnapping/dead bodies reports increased recently?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were many of those victims were poor people?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were they manipulated/brainwashed to sell organs for monetary benifits?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did perpetrators leave any trace of their activites online which were linked to dark web?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did the criminal department recieve any illegal transplantations alerts? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
 
 
 
