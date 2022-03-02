@@ -1796,6 +1796,228 @@
     ]
   },
 
+  "Cyber Bullying": {
+    "keyword": [
+      "offensive texts",
+      "bullied",
+      "blackmailed",
+      "spread rumours",
+      "social media",
+      "mean",
+      "rude",
+      "hate",
+      "stressed",
+      "depressed"
+     ],
+    "questions": [
+      {
+        "ques": "Were you bullied on any online social media platforms?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was someone spreading unnecessary hate and rumours about you online?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did someone blackmailed/threatened you for sexual favours or sent you mean texts?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Do you feel depressed/stressed after the incident",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was someone rude to you online or tried to hurt you by any means? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "IP Theft": {
+    "keyword": [
+      "copyrights",
+      "patents",
+      "intellectual property rights",
+      "robbed",
+      "stolen",
+      "images stolen",
+      "designs stolen",
+      "trade secrets",
+      "business documents",
+      "aggrements"
+     ],
+    "questions": [
+      {
+        "ques": "Were you robbed of your ideas/inventions/creative expressions online?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were your trade secrets/assets made public by unknown entity/ your adversaries or competitors in market?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were your firewalls breached? Did it raise any red flags?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were there any loopholes/insider threats in your organization that made have led to such assault?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were your confidentail business agreements/documents copyrights and patents stolen/misused? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "Crypto Jacker": {
+    "keyword": [
+      "redirected to a bogus site",
+      "fake site",
+      "data traffic",
+      "automatically redirected",
+      "identity was stolen",
+      "i was not lured",
+      "dns cache"
+     ],
+    "questions": [
+      {
+        "ques": "Were you automatically redirected to a bogus/fake site while surfing online?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was your confidentail information/log in credentials stolen?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you click on any unknown link online/ recieved in your mailbox/messages?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was your IP address compromised? Did some unknown entity impersonated you?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you clear your DNS cache recently? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "Pharming": {
+    "keyword": [
+      "redirected to a bogus site",
+      "fake site",
+      "data traffic",
+      "automatically redirected",
+      "identity was stolen",
+      "i was not lured",
+      "dns cache"
+     ],
+    "questions": [
+      {
+        "ques": "Were you automatically redirected to a bogus/fake site while surfing online?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was your confidentail information/log in credentials stolen?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you click on any unknown link online/ recieved in your mailbox/messages?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was your IP address compromised? Did some unknown entity impersonated you?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you clear your DNS cache recently? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
 
 
 
