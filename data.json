@@ -1126,6 +1126,166 @@
     ]
   },
 
+  "Typo Squatting Attack": {
+    "keyword": [
+      "fake",
+      "typos",
+      "mispelled",
+      "malacious urls",
+      "spelling mistakes",
+      "accidently clicked",
+      "brandjacked"
+       ],
+    "questions": [
+      {
+        "ques": "Did you mispelled a legit site name in rush and entered your credentials without re-checking?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you clicked on any malacious/unknown url associated with the name of legit site?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you lost your money/data credentials after realizing it was a fake site?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you make any purchases on dummy website assoicated with a particular brand?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you enter a wrong domain extension after the brand name i.e wwwfacebook.com instead of www.facebook.com ? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "Brute Force Attack": {
+    "keyword": [
+      "limited login attempts",
+      "two factor authentication",
+      "trial and error",
+      "all possible combinations",
+      "guessed passwords",
+      "masquerading"
+      ],
+    "questions": [
+      {
+        "ques": "Was your account/system hijacked?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you not set limited login attempts for user to gain access to your account? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you not set a two factor authentication?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was root ssh login enabled on your system?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you set easy to guess passwords for login? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "Session Hijacking": {
+    "keyword": [
+      "session",
+      "control",
+      "token",
+      "session got stuck",
+      "token was stolen",
+      "control mechanism revoked"
+       ],
+    "questions": [
+      {
+        "ques": "Did you lost access to your vaild session while you were completing your transaction?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was considerable amount of money deducted from your account because of unauthorized purchases made?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was this associated to one of your web application sessions?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were you impersonated by possible attacker entity?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you not use complex session keys or random sessions? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
 
 
 
