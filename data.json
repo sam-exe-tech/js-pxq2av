@@ -1021,15 +1021,16 @@
 
   "Rainbow Table Attack": {
     "keyword": [
-      "repeated",
-      "transactions delayed",
-      "misinformation",
-      "message contents were altered",
-      "compromised"
+      "passwords cracked",
+      "lost my account",
+      "cracking passwords",
+      "hashes",
+      "hash functions",
+      "password hashes"
        ],
     "questions": [
       {
-        "ques": "Was there any delay in your communication/transactions?",
+        "ques": "Did you implement SALT techniques? Were your hashing techniques outdated?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1037,7 +1038,7 @@
         }
       },
       {
-        "ques": "Were your sensitive conversations resended to different clients/people on its own?",
+        "ques": "Did you add any random values to your hashed passwords?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1045,7 +1046,7 @@
         }
       },
       {
-        "ques": "Did you experience any sort of repetition of your activites?",
+        "ques": "Was your organizations active directory compromised?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1053,7 +1054,7 @@
         }
       },
       {
-        "ques": "Were your message contents altered or any misinformation fed to your clients?",
+        "ques": "Do your organization not use passwordless authentications?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1061,7 +1062,7 @@
         }
       },
       {
-        "ques": "Did you not establish any random sesssion or unique token while completing a transaction?",
+        "ques": "Did you not enable two factor authentication?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1071,7 +1072,7 @@
     ]
   },
 
-  "Replay Attack": {
+  "Hash Attack": {
     "keyword": [
       "repeated",
       "transactions delayed",
