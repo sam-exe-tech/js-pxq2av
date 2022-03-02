@@ -1744,20 +1744,17 @@
   
   "Pharming": {
     "keyword": [
-      "missing people",
-      "missing organs",
-      "dead bodies",
-      "kidneys",
-      "kidnapped",
-      "poor people",
-      "dark web",
-      "traces",
-      "brainwashed",
-      "crime department"
-       ],
+      "redirected to a bogus site",
+      "fake site",
+      "data traffic",
+      "automatically redirected",
+      "identity was stolen",
+      "i was not lured",
+      "dns cache"
+     ],
     "questions": [
       {
-        "ques": "Did missing people/kidnapping/dead bodies reports increased recently?",
+        "ques": "Were you automatically redirected to a bogus/fake site while surfing online?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1765,7 +1762,7 @@
         }
       },
       {
-        "ques": "Were many of those victims were poor people?",
+        "ques": "Was your confidentail information/log in credentials stolen?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1773,7 +1770,7 @@
         }
       },
       {
-        "ques": "Were they manipulated/brainwashed to sell organs for monetary benifits?",
+        "ques": "Did you click on any unknown link online/ recieved in your mailbox/messages?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1781,7 +1778,7 @@
         }
       },
       {
-        "ques": "Did perpetrators leave any trace of their activites online which were linked to dark web?",
+        "ques": "Was your IP address compromised? Did some unknown entity impersonated you?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1789,7 +1786,7 @@
         }
       },
       {
-        "ques": "Did the criminal department recieve any illegal transplantations alerts? ",
+        "ques": "Did you clear your DNS cache recently? ",
         "ans": {
           "yes": 2,
           "maybe": 1,
