@@ -1456,18 +1456,18 @@
 
   "ARP Poisoning Attack": {
     "keyword": [
-      "clicks",
-      "clicking",
-      "displayed",
-      "portrayed",
-      "malacious site",
-      "malacious script",
-      "tricked",
-      "fooled"
+      "routers",
+      "network resources",
+      "hubs",
+      "ip address",
+      "mac address",
+      "host",
+      "unauthorized party",
+      "http"
        ],
     "questions": [
       {
-        "ques": "Were you tricked into clicking a webpage element which was misdisplayed i.e A message displaying you won a lottery click here to claim your rewards?",
+        "ques": "Were your organizaions host routers/hubs/network resources compromised lately?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1475,7 +1475,7 @@
         }
       },
       {
-        "ques": "Did any malacious script ran in your computers background when you clicked it?",
+        "ques": "Did your host accepted response from unauthorized parties?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1483,7 +1483,7 @@
         }
       },
       {
-        "ques": "Were there any bugs/loopholes in your browser which weren't fixed?",
+        "ques": "Was your Ip address and Mac address spoofed/ misused by external sources?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1491,7 +1491,7 @@
         }
       },
       {
-        "ques": "Were your funds transfered when you clicked on unknown page ibutton?",
+        "ques": "Did unknown entity had any access to your network? Was your communication altered?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1499,7 +1499,7 @@
         }
       },
       {
-        "ques": "Was Javascript not disabled on your webpage? You didn't include any Frame breaker scripts? ",
+        "ques": "Was your data stolen? Did you use HTTP channel to communicate? ",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -1510,7 +1510,7 @@
   },
 
 
-  "Clickjacking": {
+  "Wrapping Attack": {
     "keyword": [
       "clicks",
       "clicking",
