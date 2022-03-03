@@ -2475,21 +2475,23 @@
 
   "Disgruntled Employees/ Insider Crimes": {
     "keyword": [
-      "ransom",
-      "asked for a ransom",
-      "encrypted",
-      "decryption key",
-      "deleted",
-      "my account was locked",
-      "locked",
-      "malware",
-      "threatened",
-      "payed the attacker",
-      "attacker asked for money"    
+      "insider",
+      "person from internal circle",
+      "employee",
+      "employees",
+      "IT desk",
+      "easily penetrated",
+      "no remote server",
+      "no external involvement",
+      "rift",
+      "access control not revoked",
+      "unhappy employees",
+      "arguement",
+      "dissatisfied" 
    ],
     "questions": [
       {
-        "ques": "Did you found out that your confidental files/documents were encrypted without your knowledge and a pop up message asked for money/ransom for the decription key",
+        "ques": "Did your employess practised poor password hygenes?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2497,7 +2499,7 @@
         }
       },
       {
-        "ques": "Did you recieve any call/message from an unknown person asking you for money or he/she will reveal/delete your sensitive files/information?",
+        "ques": "Was your security system easily penetrated by an attacker?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2505,7 +2507,7 @@
         }
       },
       {
-        "ques": "Did you lost access to your device/accounts? Was it locked?",
+        "ques": "Was there no involvement of remote server when the attack was executed",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2513,7 +2515,7 @@
         }
       },
       {
-        "ques": "Did you not install/update antivirus on your system? Did you not set up a firewall or use VPN?",
+        "ques": "Did you had any rift/arguments with employees/ex-employess of your organization? Were there access controls revoked?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2521,7 +2523,7 @@
         }
       },
       {
-        "ques": "Did you not backup your data/ enable security patches on your system?",
+        "ques": "Were your employess unhappy with current state of work and job salaries paid by you? Did you create any tense work culture?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2531,23 +2533,23 @@
     ]
   },
 
-  "Ransom Artist": {
+  "Eavesdropper": {
     "keyword": [
-      "ransom",
-      "asked for a ransom",
-      "encrypted",
-      "decryption key",
-      "deleted",
-      "my account was locked",
-      "locked",
-      "malware",
-      "threatened",
-      "payed the attacker",
-      "attacker asked for money"    
+      "eavesdropped",
+      "mid conversation",
+      "unsecure",
+      "network communuication",
+      "data modified",
+      "open network",
+      "traffic not encrypted",
+      "listened",
+      "microphones",
+      "installed in premises",
+      "planted"    
    ],
     "questions": [
       {
-        "ques": "Did you found out that your confidental files/documents were encrypted without your knowledge and a pop up message asked for money/ransom for the decription key",
+        "ques": "Were your sensitive details compromised changed/altered/modified mid conversation?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2555,7 +2557,7 @@
         }
       },
       {
-        "ques": "Did you recieve any call/message from an unknown person asking you for money or he/she will reveal/delete your sensitive files/information?",
+        "ques": "Was your IP address not masked? Was network communication unsecure or open?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2563,7 +2565,7 @@
         }
       },
       {
-        "ques": "Did you lost access to your device/accounts? Was it locked?",
+        "ques": "Was the network traffic not encrypted? Was the assault difficult to identify",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2571,7 +2573,7 @@
         }
       },
       {
-        "ques": "Did you not install/update antivirus on your system? Did you not set up a firewall or use VPN?",
+        "ques": "Was your telephone call intercepred? Did you find any bug in your OS or installed stealth microphones/cameras in your premises?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2579,7 +2581,7 @@
         }
       },
       {
-        "ques": "Did you not backup your data/ enable security patches on your system?",
+        "ques": "Did you follow week password habits? Were your business details privacy documents compromised?",
         "ans": {
           "yes": 2,
           "maybe": 1,
