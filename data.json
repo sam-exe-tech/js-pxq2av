@@ -2246,19 +2246,20 @@
 
   "White Hat Hacker": {
     "keyword": [
-      "stalked",
-      "annoyed",
-      "unknown account",
-      "disturb",
-      "trying to get my attention",
-      "attention",
-      "new account",
-      "watched",
-      "obscene"    
+      "patriotism",
+      "patroitic goal",
+      "professionally funded",
+      "non disclouse aggrement",
+      "hired",
+      "with my knowlwdge",
+      "penetration test",
+      "ethics",
+      "ethical",
+      "payed the attacker"    
    ],
     "questions": [
       {
-        "ques": "Did you recieve multiple messages from an unknown person even after you warned them not to?",
+        "ques": "Did you hire a professional hacker to identify the possible loopholes and vulnerabilities in your organization",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2266,7 +2267,7 @@
         }
       },
       {
-        "ques": "Were they trying to get your attention or disturb your internal peace?",
+        "ques": "Was a non-disclosure aggrement signed with hacker when you asked him/her to lead an assault?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2274,7 +2275,7 @@
         }
       },
       {
-        "ques": "Did they came up with new accounts after you blocked their previous account?",
+        "ques": "Did the attacker performed penetration test on your system with your knowledge?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2282,7 +2283,7 @@
         }
       },
       {
-        "ques": "Did you feel depressed/annoyed/stalked/stressed/watched after encountering such experience?",
+        "ques": "Was an ethical aspect involved in his signature/modus operandi?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2290,7 +2291,7 @@
         }
       },
       {
-        "ques": "Were you harrassed or recieve any obscene images? ",
+        "ques": "Did your organization (business/political) pay the attacker for his/her time and services?",
         "ans": {
           "yes": 2,
           "maybe": 1,
