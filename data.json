@@ -3169,6 +3169,178 @@
     ]
   },
 
+  "Black Hat Hackers": {
+    "keyword": [
+      "no concent",
+      "protocol breached",
+      "deep web",
+      "dark web",
+      "unethical",
+      "high security areas",
+      "no concent",
+      "financial damage",
+      "reputational damage"
+       ],
+    "questions": [
+      {
+        "ques": "Were your organizations all security protocols and sensitive data breached?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was your confidential information sold on dark web i.e credit card numbers/social security numbers?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were the actions of hacker/attacker unethical? Were you attacked without any consent?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was your system found corrupted with malacious viruses/backdoors?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were restricted areas in your organization bypassed by the attacker? Did it cost any financial/reputational damage to your organization? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "SQL Injectors": {
+    "keyword": [
+      "denied",
+      "truth",
+      "valadity",
+      "tampered",
+      "destroyed",
+      "modified",
+      "permissions revoked",
+      "administrator access denied",
+      "scanner",
+      "queries",
+      "tools"
+   ],
+    "questions": [
+      {
+        "ques": "Did the attack cause any repudiation issues? Were any balance changes accounted in your database?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was your data tampered/destroyed or made unavavailable?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were administrator controls of your database revoked?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did your web vulnerabilty scanner found any traces on tools used for tampering or injection proofs?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was your database structure compromised? Was the authentication sidestepped? Were the database permissions changed?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "Zero Day Exploiters": {
+    "keyword": [
+      "unknown",
+      "firewall",
+      "pattern didn't matched",
+      "attack signature",
+      "wasn't found in database",
+      "new signature",
+      "offers leaked",
+      "changes leaked",
+      "new vulnerabilities",
+      "not filtered",
+      "traffic"
+   ],
+    "questions": [
+      {
+        "ques": "Did the attack pattern/familarity not matched signatures of previously known attacks on system?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did the attack cause any severe security threat to your organization?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was your corporate data exploited? Were your upcoming events leaked before its release date or announcements? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were new system vulnerabilites in your organization/company not resolved/patched after updation?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was a web application firewall not deployed on the network edge? Was the incoming traffic not filtered? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
   
 
 
