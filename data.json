@@ -2710,21 +2710,18 @@
 
   "Cyber Pornography": {
     "keyword": [
-      "eavesdropped",
-      "mid conversation",
-      "unsecure",
-      "network communuication",
-      "data modified",
-      "open network",
-      "traffic not encrypted",
-      "listened",
-      "microphones",
-      "installed in premises",
-      "planted"    
+      "under 18",
+      "children",
+      "obscene",
+      "illegal distribution",
+      "pornstars",
+      "increase in reports",
+      "sex racket",
+      "busted"    
    ],
     "questions": [
       {
-        "ques": "Were your sensitive details compromised changed/altered/modified mid conversation?",
+        "ques": "Did you saw children appearing as models involving in sexual acts with adults on porn sites? ",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2732,7 +2729,7 @@
         }
       },
       {
-        "ques": "Was your IP address not masked? Was network communication unsecure or open?",
+        "ques": "Did pornstars/models appeared to be under 18? ",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2740,7 +2737,7 @@
         }
       },
       {
-        "ques": "Was the network traffic not encrypted? Was the assault difficult to identify",
+        "ques": "Did reports of child pornography sites increased lately",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2748,7 +2745,7 @@
         }
       },
       {
-        "ques": "Was your telephone call intercepred? Did you find any bug in your OS or installed stealth microphones/cameras in your premises?",
+        "ques": "Were porn site owners accused of molestation/abuse?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2756,7 +2753,7 @@
         }
       },
       {
-        "ques": "Did you follow week password habits? Were your business details privacy documents compromised?",
+        "ques": "Was any small/large scale sex racket busted by FBI/Crime department recently?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2766,23 +2763,21 @@
     ]
   },
 
-  "Eavesdropper": {
+  "Software Piracy": {
     "keyword": [
-      "eavesdropped",
-      "mid conversation",
-      "unsecure",
-      "network communuication",
-      "data modified",
-      "open network",
-      "traffic not encrypted",
-      "listened",
-      "microphones",
-      "installed in premises",
-      "planted"    
+      "pirated",
+      "pirated games",
+      "pirated software",
+      "paid software available for free",
+      "pirated websites",
+      "pirated movies",
+      "fake copies",
+      "cheap rates",
+      "disable my antivirus"  
    ],
     "questions": [
       {
-        "ques": "Were your sensitive details compromised changed/altered/modified mid conversation?",
+        "ques": "Did you make cheap software purchases of original software on unauthorized sites?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2790,7 +2785,7 @@
         }
       },
       {
-        "ques": "Was your IP address not masked? Was network communication unsecure or open?",
+        "ques": "Was one license copy used to install a software on multiple devices?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2798,7 +2793,7 @@
         }
       },
       {
-        "ques": "Was the network traffic not encrypted? Was the assault difficult to identify",
+        "ques": "Does it shows activate windows at bottom right side of your computer even after you made a legal purchase of device?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2806,7 +2801,7 @@
         }
       },
       {
-        "ques": "Was your telephone call intercepred? Did you find any bug in your OS or installed stealth microphones/cameras in your premises?",
+        "ques": "Was your copyrighted material duplicated imitating your brand and sold online for cheap rates?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2814,7 +2809,7 @@
         }
       },
       {
-        "ques": "Did you follow week password habits? Were your business details privacy documents compromised?",
+        "ques": "Did you download paid games from a pirated site? Did it ask you to disable your antivirus to play the game? Was your device compromised?",
         "ans": {
           "yes": 2,
           "maybe": 1,
