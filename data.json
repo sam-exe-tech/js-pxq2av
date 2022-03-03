@@ -1965,6 +1965,8 @@
     ]
   },
 
+ 
+  
   "DNS Tunneling": {
     "keyword": [
       "dns",
@@ -2018,6 +2020,119 @@
       }
     ]
   },
+
+  "Script Kiddles": {
+    "keyword": [
+      "existing software",
+      "domain",
+      "similar scripts",
+      "similar codes",
+      "easily traced",
+      "amateur",
+      "found on internet",
+      "simple"
+     ],
+    "questions": [
+      {
+        "ques": "Were you able to trace attacks on your system easily?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did the attack signature match any of the existing well known hacking techniques recorded in your database/ or found on internet?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were you able to get access to your system right away after applying some counters to threat actors?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was the damage to your organization small scale/ had least impact on your company resources?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were the attack vectors and modus operandi of the expliot simple? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "Cyber Stalker": {
+    "keyword": [
+      "stalked",
+      "annoyed",
+      "unknown account",
+      "disturb",
+      "trying to get my attention",
+      "attention",
+      "new account",
+      "watched",
+      "obscene"    
+   ],
+    "questions": [
+      {
+        "ques": "Did you recieve multiple messages from an unknown person even after you warned them not to?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were they trying to get your attention or disturb your internal peace?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did they came up with new accounts after you blocked their previous account?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you feel depressed/annoyed/stalked/stressed/watched after encountering such experience?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were you harrassed or recieve any obscene images? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  
 
 
 
