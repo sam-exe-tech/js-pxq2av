@@ -2998,19 +2998,19 @@
 
   "Cyber Laundering": {
     "keyword": [
-      "pirated",
-      "pirated games",
-      "pirated software",
-      "paid software available for free",
-      "pirated websites",
-      "pirated movies",
-      "fake copies",
-      "cheap rates",
-      "disable my antivirus"  
+      "betting",
+      "casino",
+      "gambling",
+      "international fund",
+      "transfer",
+      "money transfer",
+      "financial fraud",
+      "tax",
+      "raids"  
    ],
     "questions": [
       {
-        "ques": "Did you make cheap software purchases of original software on unauthorized sites?",
+        "ques": "Do you got a lead on terrorist group funded by online sources?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -3018,7 +3018,7 @@
         }
       },
       {
-        "ques": "Was one license copy used to install a software on multiple devices?",
+        "ques": "Were your funds involved/ transferred into online gambling platforms like poker? ",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -3026,7 +3026,7 @@
         }
       },
       {
-        "ques": "Does it shows activate windows at bottom right side of your computer even after you made a legal purchase of device?",
+        "ques": "Were you a victim of online lottery scam? Were you decieved by a person claiming to be legit by impersonating a reputed organizations name to invest in lottery platform?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -3034,7 +3034,7 @@
         }
       },
       {
-        "ques": "Was your copyrighted material duplicated imitating your brand and sold online for cheap rates?",
+        "ques": "Did you find a person/entity involved in classified financial frauds/ illegal money involvements and transaction scams?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -3042,7 +3042,7 @@
         }
       },
       {
-        "ques": "Did you download paid games from a pirated site? Did it ask you to disable your antivirus to play the game? Was your device compromised?",
+        "ques": "After running tax invasion raids did you found bulk of black money/illegal bank accounts? ",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -3051,6 +3051,8 @@
       }
     ]
   },
+
+  
   
 
 
