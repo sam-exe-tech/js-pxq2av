@@ -2590,7 +2590,240 @@
       }
     ]
   },
-  
+
+  "AI Powered Attacks": {
+    "keyword": [
+      "AI",
+      "automated devices",
+      "machine",
+      "machine learning",
+      "intelligent",
+      "algorithms",
+      "algorithm driven",
+      "smart",
+      "behavioural pattern",
+      "reverse engineering",
+      "training",
+      "AI model"    
+   ],
+    "questions": [
+      {
+        "ques": "Did the attack had a particular pattern anamolies or predictive actions/ smart behaviour analytics?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were company logs records not monitered frequently or on timey basis? Was AI model of your organization stolen?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was the behavioural pattern of employee esaily predicted by the attacker to comprosmise his/her credentials?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were automated devices used to exploit your system? Was training model of your company compromised?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was data processing pipeline of your organization under threat? Any vectors related to reverse engineering identified from it?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "APT Agents": {
+    "keyword": [
+      "long time presence",
+      "long term",
+      "attack vector still vaild",
+      "prolong period",
+      "start up",
+      "small organization",
+      "return",
+      "backdoors",
+      "large data stored",
+      "more logins",
+      "log records"    
+   ],
+    "questions": [
+      {
+        "ques": "Was threat to your organization still vaild after applying multiple counters over a prolonged period of time?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Is your organization a start up or on small scale level?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did the similar attack reappered even after they were countered/settled earlier? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you experience large chunk of data stored at places it shouldn't be?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you experience elevation in log ons late at night? More logins than expected?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "Cyber Pornography": {
+    "keyword": [
+      "eavesdropped",
+      "mid conversation",
+      "unsecure",
+      "network communuication",
+      "data modified",
+      "open network",
+      "traffic not encrypted",
+      "listened",
+      "microphones",
+      "installed in premises",
+      "planted"    
+   ],
+    "questions": [
+      {
+        "ques": "Were your sensitive details compromised changed/altered/modified mid conversation?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was your IP address not masked? Was network communication unsecure or open?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was the network traffic not encrypted? Was the assault difficult to identify",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was your telephone call intercepred? Did you find any bug in your OS or installed stealth microphones/cameras in your premises?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you follow week password habits? Were your business details privacy documents compromised?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "Eavesdropper": {
+    "keyword": [
+      "eavesdropped",
+      "mid conversation",
+      "unsecure",
+      "network communuication",
+      "data modified",
+      "open network",
+      "traffic not encrypted",
+      "listened",
+      "microphones",
+      "installed in premises",
+      "planted"    
+   ],
+    "questions": [
+      {
+        "ques": "Were your sensitive details compromised changed/altered/modified mid conversation?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was your IP address not masked? Was network communication unsecure or open?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was the network traffic not encrypted? Was the assault difficult to identify",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was your telephone call intercepred? Did you find any bug in your OS or installed stealth microphones/cameras in your premises?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you follow week password habits? Were your business details privacy documents compromised?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
 
 
 
