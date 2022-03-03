@@ -2881,18 +2881,22 @@
   "Spammers": {
     "keyword": [
       "spams",
-      "pirated games",
-      "pirated software",
-      "paid software available for free",
-      "pirated websites",
-      "pirated movies",
-      "fake copies",
-      "cheap rates",
-      "disable my antivirus"  
+      "phishing scams",
+      "unwanted",
+      "unsolicited",
+      "out of context",
+      "heavy discount",
+      "discount",
+      "non standard",
+      "suspicious sender",
+      "unformal language",
+      "grammatical mistakes",
+      "unwanted attachments",
+      "suspicious url"
    ],
     "questions": [
       {
-        "ques": "Did you make cheap software purchases of original software on unauthorized sites?",
+        "ques": "Did you recieve any unsolicited or out of context e-mail/texts?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2900,7 +2904,7 @@
         }
       },
       {
-        "ques": "Was one license copy used to install a software on multiple devices?",
+        "ques": "Did you recieve any e-mails/texts to avail offers/pay bills offering a ton of discount if you pay it within specified deadline?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2908,7 +2912,7 @@
         }
       },
       {
-        "ques": "Does it shows activate windows at bottom right side of your computer even after you made a legal purchase of device?",
+        "ques": "Was the senders address non standard? Did it had a combinations of letters and numbers?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2916,7 +2920,7 @@
         }
       },
       {
-        "ques": "Was your copyrighted material duplicated imitating your brand and sold online for cheap rates?",
+        "ques": "Were there any grammatical mistakes/spelling errors in the message of sender you recieved? ",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2924,7 +2928,7 @@
         }
       },
       {
-        "ques": "Did you download paid games from a pirated site? Did it ask you to disable your antivirus to play the game? Was your device compromised?",
+        "ques": "Did you recieved any e-mail with strange attachments or urls?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2935,21 +2939,21 @@
   },
   
 
-  "Software Piracy": {
+  "Web Jackers": {
     "keyword": [
-      "pirated",
-      "pirated games",
-      "pirated software",
-      "paid software available for free",
-      "pirated websites",
-      "pirated movies",
-      "fake copies",
-      "cheap rates",
-      "disable my antivirus"  
+      "fake website",
+      "redirected to a bogus site",
+      "domain name",
+      "website",
+      "location was moved",
+      "web adress changed",
+      "clone website",
+      "http",
+      "no antiphising"  
    ],
     "questions": [
       {
-        "ques": "Did you make cheap software purchases of original software on unauthorized sites?",
+        "ques": "Did you click on any malacious link which redirected you to a fake website?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2957,7 +2961,7 @@
         }
       },
       {
-        "ques": "Was one license copy used to install a software on multiple devices?",
+        "ques": "Did you experience a message while visiting a web page that it has moved to another address click here to go to the location?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2965,7 +2969,7 @@
         }
       },
       {
-        "ques": "Does it shows activate windows at bottom right side of your computer even after you made a legal purchase of device?",
+        "ques": "Did you enter your login credentials on a clone website which you realized later when your data/money was compromised?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2973,7 +2977,7 @@
         }
       },
       {
-        "ques": "Was your copyrighted material duplicated imitating your brand and sold online for cheap rates?",
+        "ques": "The website on which you entered your login credentails was it based on http protocol?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2981,7 +2985,7 @@
         }
       },
       {
-        "ques": "Did you download paid games from a pirated site? Did it ask you to disable your antivirus to play the game? Was your device compromised?",
+        "ques": "Was a browser without antiphising detection used by you?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2992,7 +2996,7 @@
   },
   
 
-  "Software Piracy": {
+  "Cyber Laundering": {
     "keyword": [
       "pirated",
       "pirated games",
