@@ -2374,7 +2374,7 @@
    ],
     "questions": [
       {
-        "ques": "Did you found out that your confidental files/documents were encrypted without your knowledge and a pop up message asked for money/ransom for the decription key",
+        "ques": "Did you found out that your confidental files/documents were encrypted without your knowledge and a pop up message asked for money/ransom for the decription key?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2418,21 +2418,20 @@
 
   "Cyber Crime Syndicates": {
     "keyword": [
-      "ransom",
-      "asked for a ransom",
-      "encrypted",
-      "decryption key",
-      "deleted",
-      "my account was locked",
-      "locked",
-      "malware",
-      "threatened",
-      "payed the attacker",
-      "attacker asked for money"    
+      "cripled",
+      "disasterous",
+      "cybercrime gangs",
+      "online heist",
+      "impossible",
+      "large scale",
+      "governmental website",
+      "financial firm",
+      "billions",
+      "notorious crime"   
    ],
     "questions": [
       {
-        "ques": "Did you found out that your confidental files/documents were encrypted without your knowledge and a pop up message asked for money/ransom for the decription key",
+        "ques": "Was the impact of attack disasterous which may have cripled the organization or totally wiped off its funds?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2440,7 +2439,7 @@
         }
       },
       {
-        "ques": "Did you recieve any call/message from an unknown person asking you for money or he/she will reveal/delete your sensitive files/information?",
+        "ques": "Was any large scale online heist reported recently which was quite impossible to be carried out?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2448,7 +2447,7 @@
         }
       },
       {
-        "ques": "Did you lost access to your device/accounts? Was it locked?",
+        "ques": "Was any legal governmental website/financial firm/bank compromised of its data and resources?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2456,7 +2455,7 @@
         }
       },
       {
-        "ques": "Did you not install/update antivirus on your system? Did you not set up a firewall or use VPN?",
+        "ques": "Were the attacks reported one of the most notorious crimes in this decade?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2464,7 +2463,7 @@
         }
       },
       {
-        "ques": "Did you not backup your data/ enable security patches on your system?",
+        "ques": "Did the lossess faced by organizations sum upto millions and billions of dollars?",
         "ans": {
           "yes": 2,
           "maybe": 1,
@@ -2474,7 +2473,7 @@
     ]
   },
 
-  "Ransom Artist": {
+  "Disgruntled Employees/ Insider Crimes": {
     "keyword": [
       "ransom",
       "asked for a ransom",
