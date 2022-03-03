@@ -2818,7 +2818,237 @@
       }
     ]
   },
+
+
+  "Credit Card Fraudsters": {
+    "keyword": [
+      "credit card statements",
+      "collection agency",
+      "creditor",
+      "loans i havent requested",
+      "purchases i haven't made",
+      "suspicious transaction",
+      "different location",
+      "low credit balance",
+      "unfamiliar company",
+      "multiple credit cards"
+    ],
+    "questions": [
+      {
+        "ques": "Do you have bills/purchases credit card statements you dont recognize?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were you contacted by a collection agency about your unknown debts?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Do your credit card report shows loans or purchases that you didn't request?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Do you see payments/transctions made from different location to that of your residence??",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "As a credit card provider does your dataset have an single entity associated with multiple credit cards or ip address?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
   
+
+  "Spammers": {
+    "keyword": [
+      "spams",
+      "pirated games",
+      "pirated software",
+      "paid software available for free",
+      "pirated websites",
+      "pirated movies",
+      "fake copies",
+      "cheap rates",
+      "disable my antivirus"  
+   ],
+    "questions": [
+      {
+        "ques": "Did you make cheap software purchases of original software on unauthorized sites?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was one license copy used to install a software on multiple devices?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Does it shows activate windows at bottom right side of your computer even after you made a legal purchase of device?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was your copyrighted material duplicated imitating your brand and sold online for cheap rates?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you download paid games from a pirated site? Did it ask you to disable your antivirus to play the game? Was your device compromised?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+  
+
+  "Software Piracy": {
+    "keyword": [
+      "pirated",
+      "pirated games",
+      "pirated software",
+      "paid software available for free",
+      "pirated websites",
+      "pirated movies",
+      "fake copies",
+      "cheap rates",
+      "disable my antivirus"  
+   ],
+    "questions": [
+      {
+        "ques": "Did you make cheap software purchases of original software on unauthorized sites?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was one license copy used to install a software on multiple devices?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Does it shows activate windows at bottom right side of your computer even after you made a legal purchase of device?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was your copyrighted material duplicated imitating your brand and sold online for cheap rates?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you download paid games from a pirated site? Did it ask you to disable your antivirus to play the game? Was your device compromised?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+  
+
+  "Software Piracy": {
+    "keyword": [
+      "pirated",
+      "pirated games",
+      "pirated software",
+      "paid software available for free",
+      "pirated websites",
+      "pirated movies",
+      "fake copies",
+      "cheap rates",
+      "disable my antivirus"  
+   ],
+    "questions": [
+      {
+        "ques": "Did you make cheap software purchases of original software on unauthorized sites?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was one license copy used to install a software on multiple devices?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Does it shows activate windows at bottom right side of your computer even after you made a legal purchase of device?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was your copyrighted material duplicated imitating your brand and sold online for cheap rates?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you download paid games from a pirated site? Did it ask you to disable your antivirus to play the game? Was your device compromised?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+  
+
 
 
 
