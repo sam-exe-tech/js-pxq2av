@@ -2301,6 +2301,121 @@
     ]
   },
 
+  "Social Engineer": {
+    "keyword": [
+      "psychologically",
+      "manipulated",
+      "tricked",
+      "trust was voilated",
+      "trust",
+      "fooled",
+      "blind trust",
+      "donate",
+      "donation",
+      "own actions"    
+   ],
+    "questions": [
+      {
+        "ques": "Were you tricked by a person claiming to be a legitimate representative of an organization to reveal your personal information? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you gave access of your computer/system to an unknown person?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you put blind trust in a person/friend who you thought might be beneficail for your organization or to be your personal representative?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were you tricked in donating for a fundraiser/ charity or for a political campaign or any other cause and later found out you have been fooled?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did your own blind actions cost you money and time? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "Ransom Artist": {
+    "keyword": [
+      "ransom",
+      "asked for a ransom",
+      "encrypted",
+      "decryption key",
+      "deleted",
+      "my account was locked",
+      "locked",
+      "malware",
+      "threatened",
+      "payed the attacker",
+      "attacker asked for money"    
+   ],
+    "questions": [
+      {
+        "ques": "Did you found out that your confidental files/documents were encrypted without your knowledge and a pop up message asked for money/ransom for the decription key",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you recieve any call/message from an unknown person asking you for money or he/she will reveal/delete your sensitive files/information?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you lost access to your device/accounts? Was it locked?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you not install/update antivirus on your system? Did you not set up a firewall or use VPN?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you not backup your data/ enable security patches on your system?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
 
 
 
