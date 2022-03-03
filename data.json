@@ -3052,7 +3052,123 @@
     ]
   },
 
-  
+  "Password Sniffers": {
+    "keyword": [
+      "public wifi",
+      "open network",
+      "unencrypted",
+      "sniff",
+      "steal",
+      "software",
+      "external source",
+      "external sources",
+      "discharged",
+      "heavy resource usage",
+      "protocol compromised",
+      "packets compromised"  
+   ],
+    "questions": [
+      {
+        "ques": "Did you use any public wifi/ unencrypted network to make bank transactions?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you download any risky software on your device? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you recieve any alert that the specific application is using more resources than it need? Was your device battery draining?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was your network traffic/ TCP/IP packets compromised?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Did you performed any audits on your system? Was your system spied on without your knowledge? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
+  "Data Diddlers": {
+    "keyword": [
+      "data changed",
+      "data altered",
+      "data",
+      "breached",
+      "database",
+      "under attack",
+      "contents altered",
+      "stats changed",
+      "unoffical",
+      "data entry",
+      "client information stolen"
+   ],
+    "questions": [
+      {
+        "ques": "Was your organizations database compromised/under threat by malacious factors?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was your data corrupted/ database vectors modified i.e employees salary changed/ working hours changed?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Were your database statistics falsified? Was any unusual data entry made to your database? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Was your client information compromised? Did your organization recieve any backlashes on it?",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      },
+      {
+        "ques": "Data breach response plan (DBRP) was not imposed by your organization? ",
+        "ans": {
+          "yes": 2,
+          "maybe": 1,
+          "no": 0
+        }
+      }
+    ]
+  },
+
   
 
 
