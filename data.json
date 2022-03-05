@@ -3118,19 +3118,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Emotion/ Revenge",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorgainzed Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Medium ",
 
-    "Skill Set": "",
+    "Skill Set": "Veteran",
 
-    "Impact Level": "",
+    "Impact Level": "Medium to High",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Accounts for insider threats/ Data breaches ",
     
-    "Countermeasures": "",
+    "Countermeasures": "Restricting sensitive data access/ Monitering rogue employees accounts"
   },
 
   "Eavesdropper": {
@@ -3189,19 +3189,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Data Theft",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorgainzed Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Low to Medium ",
 
-    "Skill Set": "",
+    "Skill Set": "Veteran",
 
-    "Impact Level": "",
+    "Impact Level": "Medium to Intermediate",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Digital communications are intersepted by the attacker.",
     
-    "Countermeasures": "",
+    "Countermeasures": "Using Firewalls and VPN ( Virtual private networks)/ WEP etc"
   },
 
   "AI Powered Attacks": {
@@ -3261,19 +3261,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Data Theft/ Financial Gain",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Organized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Intermediate to High",
 
-    "Skill Set": "",
+    "Skill Set": "Pro/ Expert",
 
-    "Impact Level": "",
+    "Impact Level": "High/ Critical",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Machine Learning/ Analyzing vast amount of data ",
     
-    "Countermeasures": "",
+    "Countermeasures": "Improving attack detection rate and accuracy."
   },
 
   "APT Agents": {
@@ -3332,19 +3332,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Financial Gain",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Highly Organized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Advanced",
 
-    "Skill Set": "",
+    "Skill Set": "Pro/ Expert",
 
-    "Impact Level": "",
+    "Impact Level": "Critical",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Establishing illicit long term presence over a network to compromise highly sensitive data.",
     
-    "Countermeasures": "",
+    "Countermeasures": "Perform/ engage in advanced cyber attack simulation/ Skill and patience."
   },
 
   "Cyber Pornography": {
@@ -3400,19 +3400,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Sexual Impulses/ Emotion",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Organized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Intermediate ",
 
-    "Skill Set": "",
+    "Skill Set": "Pro",
 
-    "Impact Level": "",
+    "Impact Level": "High",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Display and distribution of obsence materials of children.",
     
-    "Countermeasures": "",
+    "Countermeasures": "Implementing strict legal laws and capital punishment. Zero tolerance against child crime."
   },
 
   "Software Piracy": {
@@ -3469,19 +3469,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Economic gain/ Fun",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Un-organized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Low to Medium",
 
-    "Skill Set": "",
+    "Skill Set": "Low to Medium",
 
-    "Impact Level": "",
+    "Impact Level": "Medium to High",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Act of stealing software which includes ( copying/ distribution/modifying and selling).",
     
-    "Countermeasures": "",
+    "Countermeasures": "Software watermarking/Obfuscation/ Copyrights patents and end user agreement."
   },
 
 
@@ -3540,19 +3540,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Data Theft/ Financial Gain",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorganized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Un-organized Crime",
 
-    "Skill Set": "",
+    "Skill Set": "Pro/ Expert",
 
-    "Impact Level": "",
+    "Impact Level": "Very High",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Providing malacios links to victims to steal funds and theft of identity.",
     
-    "Countermeasures": "",
+    "Countermeasures": "Identity/ Block and Mitigate the attacks/ Avoid clicking on unknown/malacious links."
   },
   
 
@@ -3614,19 +3614,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Profits/ Financial Gain",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorganized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Medium to Intermediate ",
 
-    "Skill Set": "",
+    "Skill Set": "Veteran",
 
-    "Impact Level": "",
+    "Impact Level": "Medium to High",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Sending multiple unsolicited e-mails/ messages to victims. Infecting victim systems.",
     
-    "Countermeasures": "",
+    "Countermeasures": "Block and report spam messages/ e-mails and calls. Blacklisting."
   },
   
 
@@ -3684,19 +3684,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Profits/ Financial Gain",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorganized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Intermediate to High",
 
-    "Skill Set": "",
+    "Skill Set": "Pro",
 
-    "Impact Level": "",
+    "Impact Level": "High/Very High",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Creating fake websites and redirecting victims to unknown sites. The system's are compromised in the process.",
     
-    "Countermeasures": "",
+    "Countermeasures": "Protect end system with advanced security/ Install Antivirus."
   },
   
 
@@ -3766,7 +3766,7 @@
 
     "Modus Operandi": "",
     
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
   "Password Sniffers": {
@@ -3838,7 +3838,7 @@
 
     "Modus Operandi": "",
     
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
   "Data Diddlers": {
@@ -3909,7 +3909,7 @@
 
     "Modus Operandi": "",
     
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
   "Black Hat Hackers": {
@@ -3978,7 +3978,7 @@
 
     "Modus Operandi": "",
     
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
   "SQL Injectors": {
@@ -4049,7 +4049,7 @@
 
     "Modus Operandi": "",
     
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
   "Zero Day Exploiters": {
@@ -4120,7 +4120,7 @@
 
     "Modus Operandi": "",
     
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
   
