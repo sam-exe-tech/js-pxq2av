@@ -789,19 +789,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Financial Gain/ Business advantages/Politics",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Highly Organised Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "High/ Advanced",
 
-    "Skill Set": "",
+    "Skill Set": "Pro/ Expert",
 
-    "Impact Level": "",
+    "Impact Level": "Highly Critical",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "It involves violation of trust  by business/ Governmental organizations to commit highly Economic frauds.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Strict Legal structure/ Capital punishment/ Practising internal audits."
   },
 
   "Trojan Horse Attack": {
@@ -856,19 +856,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Data Theft/ Disruption",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorganized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Intermediate to High",
 
-    "Skill Set": "",
+    "Skill Set": "Pro/ Expert",
 
-    "Impact Level": "",
+    "Impact Level": "Very High",
 
-    "Modus Operandi": "",
+    "Modus Operandi": " A malacious code in stealth mode which seems legitimate controls your device/ system to damage/ steal/ disrupt data and network.",
 
-    "Countermeasures": ""
+    "Countermeasures": "Installing and running internet security suite/ Deploying Firewalls etc"
   },
 
   "Logic Bomber": {
@@ -922,19 +922,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Economic Frauds/ Defamation",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Un-organized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Intermediate to Very High",
 
-    "Skill Set": "",
+    "Skill Set": "Pro/ Expert/Advanced",
 
-    "Impact Level": "",
+    "Impact Level": "Very High/ Critical",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "A malacious program set to triggered when certain conditions are met (i.e date/ time/ no of transactions etc).",
 
-    "Countermeasures": ""
+    "Countermeasures": "Immediately lmplementing patches when new software is released/ Use trusted antivirus etc"
   },
 
   "MAC Spoofing": {
@@ -988,19 +988,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Data Alterations/ Defamation",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorganized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Intermediate to High",
 
-    "Skill Set": "",
+    "Skill Set": "Pro/ Expert",
 
-    "Impact Level": "",
+    "Impact Level": "Pro/ Expert",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Gives advantages to hackers to pose as original MAC address by exploiting access control measures.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Monitering networks for unusual activity/ Enabling packet filtering/ Deploying Robust Verification methods."
   },
 
   "SYN Flood Attack": {
@@ -1056,19 +1056,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Defamation/ Disruption",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Un-organized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Medium to Intermediate",
 
-    "Skill Set": "",
+    "Skill Set": "Rookie/Veteran/ Basic",
 
-    "Impact Level": "",
+    "Impact Level": "High",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Establishing half connection to a network by means of  DDOS attack which consumes most of system resources to make it unresponsive to legitimate users.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Configuring Firewall/ Installing commercial Monitering tools/ Updating network equipment."
   },
 
   "Plaintext Attack": {
@@ -1121,19 +1121,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Financial gain/ Revenge",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorganized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Medium",
 
-    "Skill Set": "",
+    "Skill Set": "Veteran/Pro",
 
-    "Impact Level": "",
+    "Impact Level": "High",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Attacker gains access to both Plaintext and encrypted versions to exploit sensitive information by secret key",
     
-    "Countermeasures": ""
+    "Countermeasures": "Enabling long key spaces/ Developing strong passwords habits/ Encrypting data with redundant encipherment."
   },
 
   "Replay Attack": {
@@ -1186,19 +1186,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Frauds/ Data Theft",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorganized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Intermediate",
 
-    "Skill Set": "",
+    "Skill Set": "Veteran/Pro",
 
-    "Impact Level": "",
+    "Impact Level": "Intermediate",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Valid data transmissions are  fraudulently repeated or delayed. Unnecessary Retransmission of data",
     
-    "Countermeasures": ""
+    "Countermeasures": "Establish any random session key/ Unique session token usage and enabling IP Security."
   },
 
   "Privilege Escalation": {
@@ -1253,19 +1253,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Data Theft/ Financial gain",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorganized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Medium to High",
 
-    "Skill Set": "",
+    "Skill Set": "Veteran/Pro",
 
-    "Impact Level": "",
+    "Impact Level": "Medium to Intermediate",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Accessing user information by exploiting a bug in OS.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Monitering User/Entity behaviour/ Scan and protect Network systems/ Application etc"
   },
 
   "Rainbow Table Attack": {
@@ -1319,19 +1319,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Data Theft/ Defamation Financial gain",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Un-organized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Medium to High",
 
-    "Skill Set": "",
+    "Skill Set": "Veteran/Pro",
 
-    "Impact Level": "",
+    "Impact Level": "Medium to Intermediate",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Cracking passwords hashes on the databases using a special table.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Use SALT techniques."
   },
 
   "Hash Attack": {
