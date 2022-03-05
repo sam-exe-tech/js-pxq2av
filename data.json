@@ -62,9 +62,9 @@
 
     "Impact Level": "Intermediate",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Attacks carried by inflected (zombie computers) to compromise networks/ communication and mostly for disruption in stealth mode",
     
-    "Countermeasures": ""
+    "Countermeasures": "Filtering Botnet traffic/ Sinkholing Domians/ Shutting down malacious data servers/ centers etc."
   },
 
 
