@@ -2144,19 +2144,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Financial Gain/ High profits",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Highly Organized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Very High",
 
-    "Skill Set": "",
+    "Skill Set": "Advanced/Expert",
 
-    "Impact Level": "",
+    "Impact Level": "Highly Critical",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Illicit supply/trade of drugs on Drak Web/ Anonymous Markets",
     
-    "Countermeasures": ""
+    "Countermeasures": "Closer co-operative efforts between different legislation/ High strict laws/! Seeking help from legal departments/Drug prohibition etc."
   },
 
   
@@ -2212,19 +2212,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Data Theft/ Financial Gain",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorgainsed Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Medium to High",
 
-    "Skill Set": "",
+    "Skill Set": "Veteran/Pro",
 
-    "Impact Level": "",
+    "Impact Level": "Intermediate",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Manipulatiing website traffic to bogus website/ Stealing sensitive information.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Use reliable DNS Server/ Choose reputable ISP/ Regular DNS cahche clearing."
   },
 
   "Cyber Bullying": {
@@ -2282,19 +2282,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Sexual Impulses/ Defamation/ Emotion",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorgainsed Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Low to Medium",
 
-    "Skill Set": "",
+    "Skill Set": "Rookie/Novaice/ Basic",
 
-    "Impact Level": "",
+    "Impact Level": "Low to Intermediate",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Sending offensive texts/ IMS/ MMS Spreading rumours about victims on social media and blackmailing.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Developing strong password habits/ Activating two step authentication etc"
   },
 
   "IP Theft": {
@@ -2352,19 +2352,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Financial Gain/ Trade Secrets",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorgainsed Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "High",
 
-    "Skill Set": "",
+    "Skill Set": "Pro/Advanced",
 
-    "Impact Level": "",
+    "Impact Level": "Very High",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Breaching firewalls using Malwares, IP hijacking and exploiting loopholes.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Establishing data security policy/ Reviewing user access to IP."
   },
 
   "Crypto Jacker": {
@@ -2420,19 +2420,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Financial Gain/Profits",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Orgainsed Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Intermediate to High",
 
-    "Skill Set": "",
+    "Skill Set": "Pro/Advanced/Expert",
 
-    "Impact Level": "",
+    "Impact Level": "High/Very High",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Victims system is compromised to mine for crypto currencies without their knowledge. The malware runs in background and is hard to detect",
     
-    "Countermeasures": ""
+    "Countermeasures": "Train and educate IT team/ employees/ Disable JavaScript/ Use Ad Blockers."
   },
 
  
@@ -2489,19 +2489,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Data theft/Financial Gain",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Orgainsed Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "High/Advanced",
 
-    "Skill Set": "",
+    "Skill Set": "Pro/Advanced",
 
-    "Impact Level": "",
+    "Impact Level": "Intermediate to High",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Encodes data into DNS queries by mode of adding additional data traffic to domain and endpoints. Creates covert communication channel.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Blocking and blacklisting malacious domains/ Configuring DNS firewall etc."
   },
 
   "Script Kiddles": {
@@ -2557,19 +2557,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Learning/Fun",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Un-organized ",
 
-    "Motivation Level": "",
+    "Motivation Level": "Low",
 
-    "Skill Set": "",
+    "Skill Set": "Basic/Rookie",
 
-    "Impact Level": "",
+    "Impact Level": "Low to High",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Amateur attacker performs DDos/malware/pishing/vishing and many more.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Proactive cyber security, proper education."
   },
 
   "Cyber Stalker": {
@@ -2626,19 +2626,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Harrasment/ Sexual Impulses/ Personal Satisfaction",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorganized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Medium/ Intermediate",
 
-    "Skill Set": "",
+    "Skill Set": "Intermediate",
 
-    "Impact Level": "",
+    "Impact Level": "Low to High",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Cross Site Scripting/ Cat-fishing/ Web Cam Hacking",
     
-    "Countermeasures": ""
+    "Countermeasures": "Clearing web cookies and cache/ securing accounts with strong passwords and dual factor authentication, Avoiding public Wifi."
   },
 
   "Hactivists": {
@@ -2695,19 +2695,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Political Gain/ Fame",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorganized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Low to High",
 
-    "Skill Set": "",
+    "Skill Set": "Basic to Intermediate",
 
-    "Impact Level": "",
+    "Impact Level": "Low to Medium",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "DDos/Phishing/ Spamming/ Exploitating free tools.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Engage law enforcements/ Protect third party services/ Proactive communication."
   },
 
   "Cyber Terrorist": {
@@ -2776,7 +2776,7 @@
 
     "Modus Operandi": "",
     
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
   "White Hat Hacker": {
@@ -2846,7 +2846,7 @@
 
     "Modus Operandi": "",
     
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
   "Social Engineer": {
@@ -2916,7 +2916,7 @@
 
     "Modus Operandi": "",
     
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
   "Ransom Artist": {
@@ -2987,7 +2987,7 @@
 
     "Modus Operandi": "",
     
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
   "Cyber Crime Syndicates": {
@@ -3057,7 +3057,7 @@
 
     "Modus Operandi": "",
     
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
   "Disgruntled Employees/ Insider Crimes": {
