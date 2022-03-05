@@ -2073,19 +2073,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "IP/Data Theft/ Frauds",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorgainzed Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Low to Medium",
 
-    "Skill Set": "",
+    "Skill Set": "Rookie/ Veteran",
 
-    "Impact Level": "",
+    "Impact Level": "Low to Medium",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Convincing victims cell phone carriers in porting sim cards while acting as a  legitimate representative in stealth mode",
     
-    "Countermeasures": "",
+    "Countermeasures": "Frequently resetting mobile pins/ Set online user profile to private/ Blacklist spams etc"
   },
 
   
@@ -2156,7 +2156,7 @@
 
     "Modus Operandi": "",
     
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
   
@@ -2224,7 +2224,7 @@
 
     "Modus Operandi": "",
     
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
   "Cyber Bullying": {
@@ -2294,7 +2294,7 @@
 
     "Modus Operandi": "",
     
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
   "IP Theft": {
@@ -2364,7 +2364,7 @@
 
     "Modus Operandi": "",
     
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
   "Crypto Jacker": {
@@ -2432,7 +2432,7 @@
 
     "Modus Operandi": "",
     
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
  
@@ -2501,7 +2501,7 @@
 
     "Modus Operandi": "",
     
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
   "Script Kiddles": {
@@ -2569,7 +2569,7 @@
 
     "Modus Operandi": "",
     
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
   "Cyber Stalker": {
@@ -2638,7 +2638,7 @@
 
     "Modus Operandi": "",
     
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
   "Hactivists": {
@@ -2707,7 +2707,7 @@
 
     "Modus Operandi": "",
     
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
   "Cyber Terrorist": {
