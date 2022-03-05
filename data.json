@@ -51,7 +51,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
 
@@ -107,8 +120,22 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
+  
 
   "ATM Cash-Out Attack": {
     "keyword": [
@@ -163,9 +190,23 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
+  
   "E-mail Bombing": {
     "keyword": [
       "spam e-mails",
@@ -216,7 +257,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Corporate Account Takeover": {
@@ -226,7 +280,7 @@
       "funds were transferred",
       "breach",
       "different account",
-      "unauthorized persont",
+      "unauthorized person",
       "wired money"
       ],
     "questions": [
@@ -270,7 +324,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "State Sponsored Hackers": {
@@ -324,7 +391,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
   
   "Online Sextortion": {
@@ -377,7 +457,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
   
   "Vishing": {
@@ -429,7 +522,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Ping of Death Attack": {
@@ -482,7 +588,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Salami Attack": {
@@ -537,7 +656,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Potentially Unwanted Programs": {
@@ -591,7 +723,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "White Collar Criminals": {
@@ -643,7 +788,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Trojan Horse Attack": {
@@ -697,7 +855,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+
+    "Countermeasures": "",
   },
 
   "Logic Bomber": {
@@ -750,7 +921,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+
+    "Countermeasures": "",
   },
 
   "MAC Spoofing": {
@@ -803,7 +987,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "SYN Flood Attack": {
