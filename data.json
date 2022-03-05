@@ -258,19 +258,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Annoying/ Resource Depletion",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorganized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Low to Intermediate",
 
-    "Skill Set": "",
+    "Skill Set": "Rookie/ Basic/ Veteran",
 
-    "Impact Level": "",
+    "Impact Level": "Medium",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Spam e-mails are sent in bulk to overflow the victim mailbox. A kind of DDOS attack.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Blacklist and report spam e-mails/ Refrain from clicking malacious links etc."
   },
 
   "Corporate Account Takeover": {
