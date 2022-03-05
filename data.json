@@ -325,19 +325,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Identify theft/ Financial Gain",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Organized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "High",
 
-    "Skill Set": "",
+    "Skill Set": "Advanced/Expert",
 
-    "Impact Level": "",
+    "Impact Level": "Very High",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Breaching of corporate bank account by an unauthorised person to transfer funds into own accounts and stealing credentials.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Ensure proper access level/ Turn on anomaly detection alerts/ Keep transactions track records etc."
   },
 
   "State Sponsored Hackers": {
@@ -392,19 +392,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Disruption/ Defamation/Politics",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Highly Organized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Very High",
 
-    "Skill Set": "",
+    "Skill Set": "Advanced/Expert",
 
-    "Impact Level": "",
+    "Impact Level": "Critical",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Hackers indirectly sponsored by government itself to target it's adversaries",
     
-    "Countermeasures": ""
+    "Countermeasures": "Deploying highly advanced tools offered by NIST/ Scanning for APT's etc"
   },
   
   "Online Sextortion": {
@@ -458,19 +458,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Money/ Fun/ Sexual Impulse/ Revenge",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Un-organized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Medium to Intermediate",
 
-    "Skill Set": "",
+    "Skill Set": "Rookie/ Veteran",
 
-    "Impact Level": "",
+    "Impact Level": "Medium to Intermediate",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Threatening victims of releasing their private/sensitive information for sexual favours/ money etc",
     
-    "Countermeasures": ""
+    "Countermeasures": "Securing social media profiles/ Disengaging further communication with perparators etc."
   },
   
   "Vishing": {
@@ -523,19 +523,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Data Theft/ Financial Gain",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorganized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Low to Medium",
 
-    "Skill Set": "",
+    "Skill Set": "Rookie/ Novice/ Basic",
 
-    "Impact Level": "",
+    "Impact Level": "Medium to Intermediate",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Practice of making fraudulent phone calls/ voice messages to individuals to gain sensitive information.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Add Spam Filters/ Blocking and reporting the conversation."
   },
 
   "Ping of Death Attack": {
@@ -589,19 +589,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Disruption/ Defamation",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorganized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Medium to Intermediate",
 
-    "Skill Set": "",
+    "Skill Set": "Rookie/ Veteran",
 
-    "Impact Level": "",
+    "Impact Level": "Intermediate",
 
-    "Modus Operandi": "",
+    "Modus Operandi": " A DOS based attack which involves freezing/ destabilizing victims computer by sending malacious packets using Ping commands.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Creating memory buffer which exceeding space to handle packets/ Deploying IDS and IPS."
   },
 
   "Salami Attack": {
@@ -657,19 +657,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Financial Gain",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Organized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "High/ Very High",
 
-    "Skill Set": "",
+    "Skill Set": "Advanced/ Expert",
 
-    "Impact Level": "",
+    "Impact Level": "Intermediate/ Critical",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Small scale attacks that go unnoticed due to its nature and least impact level eventually add upto major scale disasters.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Moniter weekly bank transactions and statements/ Inform bank about suspcious money deduction."
   },
 
   "Potentially Unwanted Programs": {
@@ -724,19 +724,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": " Spying/ Financial Gain/ Data credentials stealing",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorganized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": " Low to High",
 
-    "Skill Set": "",
+    "Skill Set": "Veteran/Pro",
 
-    "Impact Level": "",
+    "Impact Level": "Medium to Intermediate",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Unwanted Programs acts as spyware/ Adware to consume system resources and steal data credentials and also makes system slow.",
     
-    "Countermeasures": "",
+    "Countermeasures": "Download software from trusted websites/ Read end user lisence aggreement/ Install antimalware etc."
   },
 
   "White Collar Criminals": {
@@ -801,7 +801,7 @@
 
     "Modus Operandi": "",
     
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
   "Trojan Horse Attack": {
@@ -868,7 +868,7 @@
 
     "Modus Operandi": "",
 
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
   "Logic Bomber": {
@@ -934,7 +934,7 @@
 
     "Modus Operandi": "",
 
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
   "MAC Spoofing": {
@@ -1000,7 +1000,7 @@
 
     "Modus Operandi": "",
     
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
   "SYN Flood Attack": {
@@ -1068,7 +1068,7 @@
 
     "Modus Operandi": "",
     
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
   "Plaintext Attack": {
@@ -1133,7 +1133,7 @@
 
     "Modus Operandi": "",
     
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
   "Replay Attack": {
@@ -1198,7 +1198,7 @@
 
     "Modus Operandi": "",
     
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
   "Privilege Escalation": {
@@ -1265,7 +1265,7 @@
 
     "Modus Operandi": "",
     
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
   "Rainbow Table Attack": {
@@ -1331,7 +1331,7 @@
 
     "Modus Operandi": "",
     
-    "Countermeasures": "",
+    "Countermeasures": ""
   },
 
   "Hash Attack": {
