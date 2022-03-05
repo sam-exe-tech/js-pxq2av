@@ -2764,19 +2764,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Emotion/ Money/ Religion",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Organized/ Well funded",
 
-    "Motivation Level": "",
+    "Motivation Level": "Medium to High",
 
-    "Skill Set": "",
+    "Skill Set": "Intermediate/ Advanced",
 
-    "Impact Level": "",
+    "Impact Level": "High",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "APT ( Advanced Persistent Threats/SQL injection/ DNS tunneling",
     
-    "Countermeasures": ""
+    "Countermeasures": "Stricter Cyber Laws/ Deploying Advanced Security."
   },
 
   "White Hat Hacker": {
@@ -2834,19 +2834,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Patriotism/ Financial Gain",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Organized/ Funded",
 
-    "Motivation Level": "",
+    "Motivation Level": "High",
 
-    "Skill Set": "",
+    "Skill Set": "Advanced/ Expert",
 
-    "Impact Level": "",
+    "Impact Level": "Medium to High",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Identify vulnerabilities and repairing loopholes.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Not pursuing illegal motives."
   },
 
   "Social Engineer": {
@@ -2904,19 +2904,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Financial Gain/ Revenge",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Organized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Medium",
 
-    "Skill Set": "",
+    "Skill Set": "Medium to Intermediate",
 
-    "Impact Level": "",
+    "Impact Level": "Medium to High",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Manipulatiing people to reveal confidential information, Impersonation,  analyzing behavioural pattern of victims",
     
-    "Countermeasures": ""
+    "Countermeasures": "Securing devices/ setting spam filters/ Creating awareness among employees."
   },
 
   "Ransom Artist": {
@@ -2975,19 +2975,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Money",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Orgainsed Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "High",
 
-    "Skill Set": "",
+    "Skill Set": "High/Pro",
 
-    "Impact Level": "",
+    "Impact Level": "High/ Critical",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Encrypt files and personal information of the victim and demand a ransom for decryption key ",
     
-    "Countermeasures": ""
+    "Countermeasures": "Regular penetraion testing/ Timely system updation."
   },
 
   "Cyber Crime Syndicates": {
@@ -3045,19 +3045,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Financial Gain",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Organized/ Funded",
 
-    "Motivation Level": "",
+    "Motivation Level": "High",
 
-    "Skill Set": "",
+    "Skill Set": "Advanced/ Expert",
 
-    "Impact Level": "",
+    "Impact Level": "High",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Malwares/ Botnet Services/ Keyloggers etc",
     
-    "Countermeasures": ""
+    "Countermeasures": "Deploying IDS/ Security countermeasures (CIA)"
   },
 
   "Disgruntled Employees/ Insider Crimes": {
