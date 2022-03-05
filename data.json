@@ -1386,19 +1386,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Credentials Stealing/ Financial gain",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Un-organized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Intermediate ",
 
-    "Skill Set": "",
+    "Skill Set": "Veteran/Pro",
 
-    "Impact Level": "",
+    "Impact Level": "Medium to Intermediate",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Attacking remote servers by hashing user passwords without cracking it.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Implement privelged access/ Grant priveleges to only trusted agents/ Deploy IPS."
   },
 
   "Typo Squatting Attack": {
@@ -1453,19 +1453,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Data Theft/ Financial Gain",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorganized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Medium to Intermediate",
 
-    "Skill Set": "",
+    "Skill Set": "Veteran/Pro",
 
-    "Impact Level": "",
+    "Impact Level": "Intermediate",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Creating fake sites/urls based on typos made by victims regarding web address/ Brand jacking etc.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Taking legal actions based on exploits/ Registering trademarks for your business/ securing domains."
   },
 
   "Brute Force Attack": {
@@ -1519,19 +1519,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Credentials Stealing/ Financial gain/ Defamation",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorganized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Intermediate ",
 
-    "Skill Set": "",
+    "Skill Set": "Veteran/Pro",
 
-    "Impact Level": "",
+    "Impact Level": "Medium",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Trial and error attack based method to guess login credentials.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Limit login attempts/ Using Captcha/ Disabling root ssh login etc"
   },
 
   "Session Hijacking": {
@@ -1585,19 +1585,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Credentials Stealing/ Financial gain",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorganized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Intermediate to High",
 
-    "Skill Set": "",
+    "Skill Set": "Pro/Expert",
 
-    "Impact Level": "",
+    "Impact Level": "Advanced",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Exploiting a valid computer session and control mechanism by the means of unauthorised access/ Stealing session token.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Re-generating session id/ Use complex session keys/ Encrypting data traffic. "
   },
 
   "Domain Hijacking": {
@@ -1651,19 +1651,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Defamation/ Financial gain / Data theft",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorganized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Intermediate to High",
 
-    "Skill Set": "",
+    "Skill Set": "Pro/Expert",
 
-    "Impact Level": "",
+    "Impact Level": "High/Advanced",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Abusing the privileges of domian hosting/ registery system by altering Domain name without the knowledge of its owner.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Reverse the attack by invoking RTDR Policy/ Imposing ICANN/ Enable Account and Domain Registery Lock"
   },
 
   "Clickjacking": {
@@ -1719,19 +1719,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Stealing credentials/Boosting revenue",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorganized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Medium to Intermediate",
 
-    "Skill Set": "",
+    "Skill Set": "Veteran/Pro",
 
-    "Impact Level": "",
+    "Impact Level": "Intermediate",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "A malacious attack which fools/devices victims into clicking on different sites to that of portrayed.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Disable JavaScript/ Include frame breaker script."
   },
 
   "Driver Manipulation": {
@@ -1791,19 +1791,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Monitering/ Data Theft",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorganized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Medium to Intermediate",
 
-    "Skill Set": "",
+    "Skill Set": "Pro",
 
-    "Impact Level": "",
+    "Impact Level": "Intermediate/High",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "The hardware drivers trusted by OS are manipulated to exploit the system by Malwares/ keyloggers etc",
     
-    "Countermeasures": ""
+    "Countermeasures": "Use layered approaches and try to identify the exploitatians occurred."
   },
 
 
@@ -1860,19 +1860,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Data IP theft/ Financial ",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorganized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Medium to Intermediate",
 
-    "Skill Set": "",
+    "Skill Set": "Pro/ Advanced",
 
-    "Impact Level": "",
+    "Impact Level": "High",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "The attacker uses a spoofing tool, such as Arpspoof or Driftnet, to send out forged ARP responses. ",
     
-    "Countermeasures": ""
+    "Countermeasures": "Use static ARP/ Packet Filtering and enable VPN."
   },
 
 
@@ -1929,19 +1929,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Revenge/ Data Theft",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorganized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Medium",
 
-    "Skill Set": "",
+    "Skill Set": "Veteran",
 
-    "Impact Level": "",
+    "Impact Level": "Intermediate",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Injecting fake elements into a legit structure and  convincing digital signatures to cover it as legit.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Strongly Encrypting digital communications/Taking constructive security steps to prevent such attacks."
   },
 
 
@@ -2000,19 +2000,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Financial Gain/ High profits",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Highly Organized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Very High",
 
-    "Skill Set": "",
+    "Skill Set": "Advanced/Expert",
 
-    "Impact Level": "",
+    "Impact Level": "Highly Critical",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Kidnapping victims/ Brainwashing poor victims to sell organs for Monetary benifits etc",
     
-    "Countermeasures": ""
+    "Countermeasures": "Educating poor masses about it's severe impact/ Implementation of strict laws and legislature along with capital punishment."
   },
 
 
