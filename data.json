@@ -52,15 +52,15 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Disruption/ Credentials Jacking",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorganized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Intermediate to High",
 
-    "Skill Set": "",
+    "Skill Set": "Pro",
 
-    "Impact Level": "",
+    "Impact Level": "Intermediate",
 
     "Modus Operandi": "",
     
@@ -1055,7 +1055,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Plaintext Attack": {
@@ -1107,7 +1120,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Replay Attack": {
@@ -1159,7 +1185,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Privilege Escalation": {
@@ -1213,7 +1252,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Rainbow Table Attack": {
@@ -1266,7 +1318,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Hash Attack": {
@@ -1320,7 +1385,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Typo Squatting Attack": {
@@ -1374,7 +1452,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Brute Force Attack": {
@@ -1427,7 +1518,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Session Hijacking": {
@@ -1480,7 +1584,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Domain Hijacking": {
@@ -1533,7 +1650,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Clickjacking": {
@@ -1588,7 +1718,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Driver Manipulation": {
@@ -1647,7 +1790,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
 
@@ -1703,7 +1859,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
 
@@ -1759,7 +1928,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
 
@@ -1817,7 +1999,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
 
@@ -1877,7 +2072,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   
@@ -1935,7 +2143,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   
@@ -1990,7 +2211,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Cyber Bullying": {
@@ -2047,7 +2281,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "IP Theft": {
@@ -2104,7 +2351,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Crypto Jacker": {
@@ -2159,7 +2419,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
  
@@ -2215,7 +2488,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Script Kiddles": {
@@ -2270,7 +2556,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Cyber Stalker": {
@@ -2326,7 +2625,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Hactivists": {
@@ -2382,7 +2694,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Cyber Terrorist": {
@@ -2438,7 +2763,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "White Hat Hacker": {
@@ -2495,7 +2833,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Social Engineer": {
@@ -2552,7 +2903,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Ransom Artist": {
@@ -2610,7 +2974,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Cyber Crime Syndicates": {
@@ -2667,7 +3044,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Disgruntled Employees/ Insider Crimes": {
@@ -2727,7 +3117,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Eavesdropper": {
@@ -2785,7 +3188,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "AI Powered Attacks": {
@@ -2844,7 +3260,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "APT Agents": {
@@ -2902,7 +3331,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Cyber Pornography": {
@@ -2957,7 +3399,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Software Piracy": {
@@ -3013,7 +3468,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
 
@@ -3071,7 +3539,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
   
 
@@ -3132,7 +3613,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
   
 
@@ -3189,7 +3683,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
   
 
@@ -3246,7 +3753,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Password Sniffers": {
@@ -3305,7 +3825,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Data Diddlers": {
@@ -3363,7 +3896,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Black Hat Hackers": {
@@ -3419,7 +3965,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "SQL Injectors": {
@@ -3477,7 +4036,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   "Zero Day Exploiters": {
@@ -3535,7 +4107,20 @@
           "no": 0
         }
       }
-    ]
+    ],
+    "Motivation Factor": "",
+
+    "Crime Structrue": "",
+
+    "Motivation Level": "",
+
+    "Skill Set": "",
+
+    "Impact Level": "",
+
+    "Modus Operandi": "",
+    
+    "Countermeasures": "",
   },
 
   
