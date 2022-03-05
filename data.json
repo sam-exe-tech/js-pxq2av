@@ -121,19 +121,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": " Revenge/ Defamation/ Fun/ Harrasment",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorganized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Low to Medium",
 
-    "Skill Set": "",
+    "Skill Set": "Rookie/ Novice/ Basic",
 
-    "Impact Level": "",
+    "Impact Level": "Intermediate",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Use of digital communication by a group of people to bully/threaten a person.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Document and report to cybercrime authorities/ Block the accounts etc."
   },
   
 
@@ -191,19 +191,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Financial Gain/ Data Theft",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Organized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Intermediate to High",
 
-    "Skill Set": "",
+    "Skill Set": "Pro/Advanced",
 
-    "Impact Level": "",
+    "Impact Level": "Very High",
 
-    "Modus Operandi": "",
+    "Modus Operandi": " Involves criminals Breaching victims payment cards or ATM Machines/ Manipulatiing control mechanisms to exploit the daily withdraw limits and cause max damage.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Block ATM cards/ Set a minimum limit of cash out/ Report to bank regarding unusual cash flow etc"
   },
 
   
