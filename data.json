@@ -3754,19 +3754,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Financial Gain",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Highly Organized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Very High ",
 
-    "Skill Set": "",
+    "Skill Set": "Pro/Expert",
 
-    "Impact Level": "",
+    "Impact Level": "Critical",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Executing classified financial frauds/ Hiding black money in bulk by illegal involvements and transaction scams.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Strengthen home networks/ Timely backups/ developing healthy password habits."
   },
 
   "Password Sniffers": {
@@ -3826,19 +3826,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Data theft/Financial Gain",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorganized Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Intermediate to High ",
 
-    "Skill Set": "",
+    "Skill Set": "Pro",
 
-    "Impact Level": "",
+    "Impact Level": "High",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Tool which scans and records passwords on network interface/ Compromise the data packers by keeping active track on victims movements.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Monitering and Scanning networks/ Encrypting network traffic shell."
   },
 
   "Data Diddlers": {
@@ -3897,19 +3897,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Data theft/Financial Gain",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorgainsed Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Low to Medium",
 
-    "Skill Set": "",
+    "Skill Set": "Rookie/ Basic",
 
-    "Impact Level": "",
+    "Impact Level": "Medium to Intermediate",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Altering and Modification of data/outputs for the purpose of stealing and document replacements.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Timely Software updation/ Develop data breach response plan."
   },
 
   "Black Hat Hackers": {
@@ -3966,19 +3966,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Data theft/Financial Gain",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Orgainsed Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "Low to High",
 
-    "Skill Set": "",
+    "Skill Set": "Pro/Expert",
 
-    "Impact Level": "",
+    "Impact Level": "Medium to Intermediate/High",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Violating computer security/network with malicious intent which involves data theft/ holding system hostage etc",
     
-    "Countermeasures": ""
+    "Countermeasures": "Updating firewall/ Conducting vulnerability assessments/ Managing the patches."
   },
 
   "SQL Injectors": {
@@ -4037,19 +4037,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Data theft/Data Alterations",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorgainsed Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "High/ Very High",
 
-    "Skill Set": "",
+    "Skill Set": "Pro/AdvancedExpert",
 
-    "Impact Level": "",
+    "Impact Level": "High/Critical",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Executing malacious SQL statements to compromise the databases (Oracle/MySQL  etc) which involves (alterations/modification/stealing).",
     
-    "Countermeasures": ""
+    "Countermeasures": "Usage of object relational mappings/ Validate inputs/ Imply least privileges"
   },
 
   "Zero Day Exploiters": {
@@ -4108,19 +4108,19 @@
         }
       }
     ],
-    "Motivation Factor": "",
+    "Motivation Factor": "Data theft/Data Deletion",
 
-    "Crime Structrue": "",
+    "Crime Structrue": "Unorgainsed Crime",
 
-    "Motivation Level": "",
+    "Motivation Level": "High",
 
-    "Skill Set": "",
+    "Skill Set": "Pro/Advanced",
 
-    "Impact Level": "",
+    "Impact Level": "High/ Very High",
 
-    "Modus Operandi": "",
+    "Modus Operandi": "Exploits software vulnerabilities that vendor is unaware of.",
     
-    "Countermeasures": ""
+    "Countermeasures": "Implementing patches/ Usage of Windows defender and advanced antivirus."
   },
 
   
